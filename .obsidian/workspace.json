@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/modern-cli-workflow.md",
+                "file": "wiki/concepts/algorithms-and-data-structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "modern-cli-workflow"
+              "title": "algorithms-and-data-structures"
             }
           }
         ]
@@ -182,6 +182,11 @@
   },
   "active": "bf377c67b5b4a70f",
   "lastOpenFiles": [
+    "wiki/concepts/algorithms.md",
+    "wiki/concepts/ai-engineering.md",
+    "cs-wiki-graph.png",
+    "Screenshot 2026-06-25 at 5.22.29 PM.png",
+    "wiki/modern-cli-workflow.md",
     "wiki/concepts/performance-engineering.md",
     "wiki/concepts/technical-interview-preparation.md",
     "wiki/concepts/coding-interview.md",
@@ -207,9 +212,6 @@
     "wiki/concepts/retry-and-backoff.md",
     "wiki/concepts/personal-knowledge-management.md",
     "wiki/concepts/pattern-recognition.md",
-    "wiki/concepts/parallel-and-concurrent-programming.md",
-    "wiki/concepts/operating-systems.md",
-    "wiki/concepts/observability-and-profiling.md",
     "raw/archived_residue/tcp-ip-stack-ethernet-arp.html",
     "raw/archived_residue/staffeng-guides.html",
     "raw/archived_residue/refactoring-guru-design-patterns.html",
