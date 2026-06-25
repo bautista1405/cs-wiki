@@ -1,0 +1,1374 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="James Smith" />
+  <meta name="description" content="Build Your Own Redis with C/C++ |
+Learn network programming and data structures" />
+
+  <!-- og -->
+  <meta property="og:type" content="book"/>
+  <meta property="book:author" content="James Smith"/>
+  <meta property="og:title" content="Build Your Own Redis with C/C++ | Build
+Your Own Redis with C/C++"/>
+  <meta property="og:description" content="Build Your Own Redis with
+C/C++ | Learn network programming and data structures" />
+  <meta property="og:site_name" content="build-your-own.org"/>
+
+  <!-- tw -->
+  <meta name="twitter:card" content="">
+  <meta name="twitter:site" content="@byo_books">
+  <meta name="twitter:creator" content="@byo_books">
+  <meta name="twitter:title" content="Build Your Own Redis with C/C++ | Build
+Your Own Redis with C/C++">
+  <meta name="twitter:description" content="Build Your Own Redis with
+C/C++ | Learn network programming and data structures" />
+
+  <!-- google cse -->
+  <meta name="thumbnail" content="https://build-your-own.org/redis/img/book_byor_2e_cover_1024.jpg" />
+
+  <!-- atom feed  -->
+  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Build-Your-Own.org" />
+
+  <title>Build Your Own Redis with C/C++ | Build Your Own Redis with
+C/C++</title>
+  <link rel="canonical" href="https://build-your-own.org/redis/">
+
+  <style>
+html {
+  color: #1a1a1a;
+  background-color: #fdfdfd;
+}
+body {
+  margin: 0 auto;
+  max-width: 36em;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+}
+@media (max-width: 600px) {
+  body {
+    font-size: 0.9em;
+    padding: 12px;
+  }
+  h1 {
+    font-size: 1.8em;
+  }
+}
+@media print {
+  html {
+    background-color: white;
+  }
+  body {
+    background-color: transparent;
+    color: black;
+    font-size: 12pt;
+  }
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2, h3, h4 {
+    page-break-after: avoid;
+  }
+}
+p {
+  margin: 1em 0;
+}
+a {
+  color: #1a1a1a;
+}
+a:visited {
+  color: #1a1a1a;
+}
+img {
+  max-width: 100%;
+}
+svg {
+  height: auto;
+  max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.4em;
+}
+h5, h6 {
+  font-size: 1em;
+  font-style: italic;
+}
+h6 {
+  font-weight: normal;
+}
+ol, ul {
+  padding-left: 1.7em;
+  margin-top: 1em;
+}
+li > ol, li > ul {
+  margin-top: 0;
+}
+blockquote {
+  margin: 1em 0 1em 1.7em;
+  padding-left: 1em;
+  border-left: 2px solid #e6e6e6;
+  color: #606060;
+}
+code {
+  font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+  font-size: 85%;
+  margin: 0;
+  hyphens: manual;
+}
+pre {
+  margin: 1em 0;
+  overflow: auto;
+}
+pre code {
+  padding: 0;
+  overflow: visible;
+  overflow-wrap: normal;
+}
+.sourceCode {
+ background-color: transparent;
+ overflow: visible;
+}
+hr {
+  background-color: #1a1a1a;
+  border: none;
+  height: 1px;
+  margin: 1em 0;
+}
+table {
+  margin: 1em 0;
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+table caption {
+  margin-bottom: 0.75em;
+}
+tbody {
+  margin-top: 0.5em;
+  border-top: 1px solid #1a1a1a;
+  border-bottom: 1px solid #1a1a1a;
+}
+th {
+  border-top: 1px solid #1a1a1a;
+  padding: 0.25em 0.5em 0.25em 0.5em;
+}
+td {
+  padding: 0.125em 0.5em 0.25em 0.5em;
+}
+header {
+  margin-bottom: 4em;
+  text-align: center;
+}
+#TOC li {
+  list-style: none;
+}
+#TOC ul {
+  padding-left: 1.3em;
+}
+#TOC > ul {
+  padding-left: 0;
+}
+#TOC a:not(:hover) {
+  text-decoration: none;
+}
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+/* The extra [class] is a hack that increases specificity enough to
+   override a similar rule in reveal.js */
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  font-size: inherit;
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+/* Ubuntu */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-R.full.woff2) format('woff2'),
+    url(/font/Ubuntu-R.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-R.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-R.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-M.full.woff2) format('woff2'),
+    url(/font/Ubuntu-M.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-M.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-M.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-B.full.woff2) format('woff2'),
+    url(/font/Ubuntu-B.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-B.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-B.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-RI.full.woff2) format('woff2'),
+    url(/font/Ubuntu-RI.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-RI.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-RI.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-MI.full.woff2) format('woff2'),
+    url(/font/Ubuntu-MI.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-MI.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-MI.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-BI.full.woff2) format('woff2'),
+    url(/font/Ubuntu-BI.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-BI.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-BI.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+/* Ubuntu Condensed */
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-C.full.woff2) format('woff2'),
+    url(/font/Ubuntu-C.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/Ubuntu-C.basic.woff2) format('woff2'),
+    url(/font/Ubuntu-C.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+/* Ubuntu Mono */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-R.full.woff2) format('woff2'),
+    url(/font/UbuntuMono-R.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-R.basic.woff2) format('woff2'),
+    url(/font/UbuntuMono-R.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-B.full.woff2) format('woff2'),
+    url(/font/UbuntuMono-B.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-B.basic.woff2) format('woff2'),
+    url(/font/UbuntuMono-B.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-RI.full.woff2) format('woff2'),
+    url(/font/UbuntuMono-RI.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-RI.basic.woff2) format('woff2'),
+    url(/font/UbuntuMono-RI.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-BI.full.woff2) format('woff2'),
+    url(/font/UbuntuMono-BI.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-BI.basic.woff2) format('woff2'),
+    url(/font/UbuntuMono-BI.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+/* italic fix */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-R.basic.woff2) format('woff2'),
+    url(/font/UbuntuMono-R.ttf) format('truetype');
+  unicode-range: U+28, U+29, U+2B, U+2D, U+3C, U+3D, U+3E, U+5B, U+5C, U+5D, U+7B, U+7C, U+7D;
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/UbuntuMono-B.basic.woff2) format('woff2'),
+    url(/font/UbuntuMono-B.ttf) format('truetype');
+  unicode-range: U+28, U+29, U+2B, U+2D, U+3C, U+3D, U+3E, U+5B, U+5C, U+5D, U+7B, U+7C, U+7D;
+}
+/* Inconsolata */
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Medium.full.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Medium.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Medium.basic.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Medium.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Bold.full.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Bold.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Bold.basic.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Bold.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-ExtraBold.full.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-ExtraBold.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-ExtraBold.basic.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-ExtraBold.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+/* no fake italic */
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Medium.full.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Medium.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Medium.basic.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Medium.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Bold.full.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Bold.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-Bold.basic.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-Bold.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-ExtraBold.full.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-ExtraBold.ttf) format('truetype');
+  unicode-range: U+100-1fff;
+}
+@font-face {
+  font-family: 'Inconsolata Condensed';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src:
+    url(/font/Inconsolata_Condensed-ExtraBold.basic.woff2) format('woff2'),
+    url(/font/Inconsolata_Condensed-ExtraBold.ttf) format('truetype');
+  unicode-range: U+0-ff, U+2000-2BFF;
+}
+/* ascii drawing */
+@font-face {
+  font-family: 'unscii';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/font/unscii-16.woff) format('woff');
+}/* sanity */
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
+/* main column width */
+:root {
+  --col-width: 720px;
+  --bgl: lemonchiffon;
+  --bgd: #662;
+}
+
+/* no horizontal scroll */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* default font & bg */
+html {
+  background-color: var(--bgl);
+  font-family: Ubuntu, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+@media (max-width: 750px) {
+  html {
+    font-size: 14px;
+  }
+}
+html > body {
+  /* undo pandoc rules */
+  font-size: inherit;
+}
+.math {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+html, ::marker {
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* header-main-footer layout */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  hyphens: manual;
+}
+.main, .page-header-content, .page-footer-content {
+  max-width: min(var(--col-width), 100% - 2rem);
+}
+.main {
+  flex: 1;
+  width: 100%;
+}
+
+/* printing styles */
+@media print {
+  body {
+    /* undo the pandoc style */
+    font-size: inherit;
+    /* firefox fix */
+    display: block;
+  }
+  .noprint {
+    display: none !important;
+  }
+}
+
+/* focused outlines */
+:focus {
+  outline: 2px dashed tomato;
+}
+.page-header *:focus, .page-footer *:focus {
+  outline: 2px dashed greenyellow;
+}
+
+/* misc */
+.center-multi-line {
+  /* center align for multiple lines, but not for single line */
+  width: fit-content;
+  width: -moz-fit-content;
+  text-align: center;
+}
+.nowrap {
+  white-space: nowrap;
+}
+details summary {
+  cursor: pointer;
+}
+
+/* scroll bars on mobile: https://stackoverflow.com/a/42692253 */
+::-webkit-scrollbar {
+  height: 4px; /* At least not zero */
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, .3);
+}
+/* layout */
+.main {
+  margin: 1em 0;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.top-content {
+  flex: 1;
+}
+.bottom-content {
+  margin-top: 3rem;
+}
+
+/* text */
+/* .main-content {
+  text-wrap: pretty;  // worse
+} */
+
+/* headings */
+h1 {
+  font-size: 1.75em;
+  line-height: 1.1;
+  padding: 1rem 2rem 1rem 2rem;
+  margin: 0 -2rem 0 -2rem;
+  background-color: var(--bgd);
+  color: var(--bgl);
+}
+h2::before {
+  content: "";
+  display: inline-block;
+  width: 1.5rem;
+  height: 1rem;
+  margin-left: -2rem;
+  margin-right: 0.5rem;
+  background-color: var(--bgd);
+}
+h2 {
+  font-family: 'Ubuntu Condensed', 'Arial Narrow', 'Liberation Sans Narrow', sans-serif;
+  font-size: 1.5em;
+  line-height: 1.2;
+}
+h3 {
+  font-size: 1.1em;
+  line-height: 1.4;
+}
+h4 {
+  font-weight: 500;
+  text-decoration: underline dotted;
+}
+h1, h2, h3, h4 {
+  text-wrap: balance;
+}
+@media (max-width: 600px) {
+  h1, h2, h3 {
+    font-family: 'Ubuntu Condensed', 'Arial Narrow', 'Liberation Sans Narrow', sans-serif;
+  }
+  h3 {
+    font-size: 1.2em;
+  }
+}
+
+/* title block */
+header > p {
+  margin: 0.5rem 0 0 0;
+}
+header > p + p {
+  margin: 0;
+}
+.author, .date {
+  line-height: 1.4;
+  font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+}
+
+/* code listing */
+pre {
+  line-height: 1.5;
+}
+pre.ascii-graph, pre.ascii-graph code, pre:not([class]), pre:not([class]) code {
+  line-height: 1em;
+  overflow: auto hidden;
+  white-space: pre;
+  background: none;
+  padding: 0;
+}
+pre.ascii-graph, pre.ascii-graph code {
+  font-family: 'unscii', monospace;
+  font-size: 16px;
+  color: unset;
+}
+code:not(.sourceCode), code.sourceCode.default {
+  color: darkred;
+}
+code {
+  hyphens: manual;
+  font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+  font-size: unset;
+  line-height: normal;
+}
+.main :is(h1, h2, h3) code {
+  color: unset;
+  font-weight: 800;
+  font-size: 1.1em;
+}
+pre, pre.sourceCode {
+  padding: 1rem;
+}
+pre, div.sourceCode {
+  background-color: palegoldenrod;
+}
+/* condensed font for the mobile */
+@media (max-width: 700px) {
+  code {
+    font-family: 'Inconsolata Condensed', 'Ubuntu Mono', 'Courier New', Courier, monospace;
+    font-size: 115%;
+    font-weight: 500;
+  }
+  pre code, pre.sourceCode {
+    font-size: 105%;
+    line-height: 1.25;
+  }
+}:root {}
+  </style>
+
+  <style>
+/* title block */
+header {
+  margin: 1rem 0 2rem 0;
+}
+@media (min-width: 600px) {
+  header h1 {
+    font-size: 2em;
+  }
+}
+
+/* prev next links */
+.prev-toc-next {
+  display: flex;
+  justify-content: space-between;
+  font-family: monospace;
+  font-weight: bold;
+}
+.prev-toc-next a {
+  color: var(--bgl);
+  background-color: var(--bgd);
+  text-decoration: none;
+  padding: 0 1ch;
+  white-space: nowrap;
+}
+.prev-toc-next a:hover {
+  color: white;
+  text-shadow: 0 0 6px #fff, 0 0 6px #fff8;
+}
+.prev-toc-next a:not([href]) {
+  color: darkkhaki;
+  background-color: unset;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* cover */
+.cover {
+  display: block;
+}
+.cover img {
+  display: block;
+  max-width: min(100%, 200px);
+}
+
+/* misc */
+blockquote {
+  margin-left: 0.5em;
+  padding-left: 0.5em;
+  border-left: 2px solid orange;
+}
+
+/* table styles */
+tr.header th {
+  vertical-align: top;
+}
+table {
+  line-height: 1.1;
+}
+:root {
+  counter-reset: caption;
+}
+table caption {
+  font-size: smaller;
+  counter-increment: caption;
+}
+table caption::before {
+  content: 'Table ' counter(caption) '. ';
+  font-weight: bold;
+}
+th:first-child, td:first-child {
+    padding-left: 0;
+}
+th:last-child, td:last-child {
+    padding-right: 0;
+}
+/* no line breaks in tables */
+table td, table th, table code {
+  white-space: nowrap;
+}
+/* center tables */
+table {
+  display: block;
+  width: fit-content;
+  width: -moz-fit-content;
+  max-width: 100%;
+  margin: 1em auto;
+}
+  </style>
+
+
+
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+
+<style>
+a.page-header-tab:nth-of-type(2) {
+  filter: drop-shadow(0 0 6px #fff);
+  border-color: currentColor;
+}
+</style>
+
+<style>
+/* header & footer common style */
+.page-header, .page-footer {
+  width: 100%;
+  background-color: var(--bgd);
+  color: var(--bgl);
+}
+.page-header a, .page-footer a {
+  text-decoration: none;
+}
+.page-header a, .page-header a:visited, .page-footer a, .page-footer a:visited {
+  color: currentColor;
+}
+.page-header a:hover, .page-footer a:hover {
+  filter: brightness(1.1) drop-shadow(0 0 6px #fff);
+}
+
+/* header */
+.page-header {
+  display: flex;
+  justify-content: center;
+  line-height: 1.4;
+  font-size: 1.25rem;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+}
+.page-header img {
+  margin-right: 0.5em;
+}
+.page-header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  white-space: nowrap;
+}
+.page-header-tab {
+  display: block;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+  line-height: 1.6;
+  border: 0.15em solid transparent;
+}
+.page-header-subscribe {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  letter-spacing: 0.025em;
+}
+.header-small {
+  display: none;
+}
+@media (max-width: 550px) {
+  .header-big {
+    display: none;
+  }
+  .header-small {
+    display: block;
+    border-top: 1px solid white;
+    line-height: 1;
+  }
+  .page-header-subscribe {
+    margin-bottom: 6px;
+  }
+}
+</style>
+
+<svg style="display: none" version="2.0">
+  <defs>
+    <symbol id="notifications" height="24" viewBox="0 -960 960 960" width="24">
+      <path d="M160-200v-80h80v-280q0-83 50-147.5T420-792v-88h120v88q80 20 130 84.5T720-560v280h80v80H160ZM480-80q-33 0-56.5-23.5T400-160h160q0 33-23.5 56.5T480-80Z"/>
+    </symbol>
+  </defs>
+</svg>
+
+<div class="page-header noprint">
+  <div class="page-header-content" style="font-weight: bold;">
+    <div style="display: flex; align-items: center;">
+      <a style="height: 48px; display: flex; align-items: center; margin: 0 12px 0 -8px;" href="/">
+        <svg width="48" height="48" viewBox="0 0 4.23 4.23" stroke-miterlimit="8" stroke-width=".26">
+          <path fill="none" stroke="PaleGoldenrod" d="M1.59 3.84 2.9.66"/>
+          <path fill="none" stroke="PaleGoldenrod" d="m1.46 2.12-.8.53.8.52m1.32-1.05.8.53-.8.52"/>
+          <path fill="none" stroke="gold" stroke-linejoin="bevel" d="M1.72 1.57A1.46 1.46 0 0 1 2.15.54l1.02 1.03Z"/>
+          <path fill="gold" stroke="gold" stroke-linejoin="bevel" d="M2.25 1.57A.93.93 0 0 1 2.52.9l.65.66Z"/>
+        </svg>
+        <div class="header-big" style="margin-left: 8px; color: PaleGoldenrod;">build-your-own.org</div>
+      </a>
+      <a class="page-header-tab" href="/">BOOK</a>
+      <a class="page-header-tab" href="/blog/">BLOG</a>
+    </div>
+    <a class="page-header-subscribe" href="https://stats.sender.net/forms/erqPpd/view" target="_blank">
+      <div style="color: gold; display: flex; align-items: center;">
+        <svg width="24" height="24" style="fill: currentColor; margin: 0 2px 0 -4px;">
+          <use href="#notifications"/>
+        </svg>SUBSCRIBE
+      </div>
+      <div class="header-small" style="font-size: 1rem; font-weight: 400;">build-your-own.org</div>
+    </a>
+  </div>
+</div>
+<div class="main">
+<div class="top-content">
+
+<div class="prev-toc-next noprint" style="margin-bottom: 1rem;">
+  <a >prev ◄─┐</a>
+  <a href="index.html#table-of-contents">Contents</a>
+  <a href="/redis/01_intro_redis.html">┌─► next</a>
+</div>
+
+<style>
+.book-title {
+  color: var(--bgd);
+  font-weight: bold;
+  font-size: 2em;
+  line-height: 1.1;
+  width: 100%;
+  text-align: center;
+}
+@media print, (max-width: 600px) {
+  .book-title {
+    font-family: 'Ubuntu Condensed', Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+  }
+}
+</style>
+
+
+
+
+<header id="title-block-header">
+<h1 class="title">
+  Build Your Own Redis with C/C++
+</h1>
+
+<p class="subtitle">Network programming, data structures, and low-level
+C.</p>
+
+<p class="author">James Smith</p>
+
+
+</header>
+
+
+<style>
+.chapter-header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  font-family: 'Ubuntu Condensed', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.chapter-mark {
+  letter-spacing: 0.1em;
+  padding: 0.3rem;
+  padding-right: calc(0.3rem - 0.1em);
+  border: 2px solid var(--bgd);
+  background-color: var(--bgl);
+  color: var(--bgd);
+}
+.chapter-buttons {
+  line-height: 1;
+  margin-bottom: -0.2rem;
+  color: mediumblue;
+  white-space: nowrap;
+}
+.chapter-buttons a {
+  text-decoration: none;
+  padding: 0.3rem;
+  border: 2px solid var(--bgd);
+  background-color: #fb0;
+  color: currentColor;
+}
+.chapter-buttons a:visited {
+  color: currentColor;
+}
+.chapter-buttons a:hover {
+  color: blue;
+  background-color: gold;
+}
+</style>
+
+
+<div class="main-content">
+<h2 id="introduction">Introduction</h2>
+<p>Build <em>real-world</em> software by coding <em>from scratch</em>.
+<strong>If you can build a Redis server, you can build almost any
+software beyond CRUD!</strong> Because it teaches you 3 fundamental
+skills:</p>
+<ul>
+<li><strong>Network programming</strong>. The next level of programming
+is programming for multiple machines. Think HTTP servers, RPCs,
+databases, distributed systems.</li>
+<li><strong>Data structures</strong>. Redis is the best example of
+applying data structures to real-world problems. Why stop at
+theoretical, textbook-level knowledge when you can learn from production
+software?</li>
+<li><strong>Low-level C</strong>. C was, is, and will be widely used for
+systems programming and infrastructure software. It’s a gateway to many
+low-level projects.
+<!-- Learn C today and you'll appreciate in the future. --></li>
+</ul>
+<p><b>Why from scratch?</b> A quote from Richard Feynman: “What I cannot
+create, I do not understand”. You should test your learning with
+real-world projects!</p>
+<p><b>Why a book?</b> The real Redis project is a large code base built
+with lots of effort. The book distills the core concepts and guides you
+through <em>small steps</em>.</p>
+<h2 id="table-of-contents">Table of Contents</h2>
+<h3 id="part-1.-redis-from-0-to-1">Part 1. Redis from 0 to 1</h3>
+<ol type="1">
+<li><a href="01_intro_redis.html">Introduction</a></li>
+<li><a href="02_intro_sockets.html">Socket Programming</a></li>
+<li><a href="03_hello_cs.html">TCP Server and Client</a></li>
+<li><a href="04_proto.html">Request-Response Protocol</a></li>
+<li><a href="05_event_loop_intro.html">Concurrent IO Models</a></li>
+<li><a href="06_event_loop_impl.html">Event Loop (Part 1)</a> <br><a
+href="06b_event_loop_more.html">Event Loop (Part 2)</a></li>
+<li><a href="07_basic_server.html">Key-Value Server</a></li>
+</ol>
+<h3 id="part-2.-advanced-topics">Part 2. Advanced Topics</h3>
+<ol start="8" type="1">
+<li><a href="08_hashtables.html">Hashtables (Part 1)</a> <br><a
+href="08b_hashtables_impl.html">Hashtables (Part 2)</a></li>
+<li><a href="09_serialization.html">Data Serialization</a></li>
+<li><a href="10_avltree.html">Balanced Binary Tree</a></li>
+<li><a href="11_sortedset.html">Sorted Set</a></li>
+<li><a href="12_timer.html">Timer and Timeout</a></li>
+<li><a href="13_heap.html">Cache Expiration with TTL</a></li>
+<li><a href="14_thread.html">Thread Pool</a></li>
+</ol>
+<h2 id="source-code">Source Code</h2>
+<p><a
+href="https://build-your-own.org/redis/src.tgz">https://build-your-own.org/redis/src.tgz</a></p>
+<h2 id="pdfepub-and-paperback-editions">PDF/EPUB and Paperback
+Editions</h2>
+<p>The full book is free in web version. <br> You can <strong><a
+href="99_wip.html">purchase</a></strong> the book if you find the book
+helpful.</p>
+<div class="cover">
+<a href="99_wip.html"><img width="200" src="/redis/img/book_byor_2e_cover_1800.png" alt="Book Cover"/></a>
+</div>
+<h2 id="recommended-reading">Recommended Reading</h2>
+<p>I have curated a list of books that are highly relevant for people
+who intend to DIY their own Redis.</p>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 80%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img src="/redis/img/bgn.png" /></td>
+<td style="text-align: left;"><strong>Beej’s Guide to Network
+Programming</strong>. <br> <a
+href="https://amzn.to/3QBlgMZ">[Amazon]</a> <a
+href="https://beej.us/guide/bgnet/">[Web]</a> <br> A comprehensive guide
+and reference to network programming. It’s a great supplement for coding
+your own networked apps, as the Redis book doesn’t cover all the details
+of socket programming.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><img src="/redis/img/tlpi.jpg" /></td>
+<td style="text-align: left;"><strong>The Linux Programming
+Interface</strong> by Michael Kerrisk. <br> <a
+href="https://amzn.to/40fyaDE">[Amazon]</a> <a
+href="https://man7.org/tlpi/">[Web]</a> <br> The socket API is only a
+subset of the Linux API interface. You will probably need to become
+familiar with the other parts, such as IOs, threads and processes,
+signals, and etc, if you are developing apps for Linux.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><img src="/redis/img/kr.jpg" /></td>
+<td style="text-align: left;"><strong>The C Programming
+Language</strong> by K&amp;R. <br> <a
+href="https://amzn.to/3Fzzcku">[Amazon]</a> <br> Are you scared of C,
+but still want to follow the project? No problem. This classic book is
+great for picking up C quickly, whether you are a beginner or an
+experienced developer.</td>
+</tr>
+</tbody>
+</table>
+<style>
+    .cover {
+        text-align: left;
+    }
+    .appendix ol {
+        counter-reset: appendix 0;
+        list-style: none;
+        padding-left: 0;
+    }
+    .appendix li {
+        counter-increment: appendix 1;
+    }
+    .appendix li::before {
+        content: "A" counter(appendix) ". ";
+        width: 1.7em;
+        display: inline-block;
+    }
+    table td, table th {
+        white-space: unset;
+    }
+    table {
+        line-height: unset;
+    }
+    td {
+        vertical-align: top;
+    }
+    td img {
+        margin: 8px 0;
+        vertical-align: top;
+        border: 1px solid gray;
+    }
+</style>
+</div>
+
+<style>
+  .feedback-link {
+    margin: 2rem 0 0 0;
+    text-align: center;
+    color: grey;
+  }
+  .feedback-link a, .feedback-link a:visited {
+    color: cornflowerblue;
+  }
+  .feedback-link a:hover {
+    color: blue;
+  }
+</style>
+<p class="feedback-link">
+  (<a href="https://forms.gle/UKo4bncUnuMGBrTM7">Error report | Ask questions</a>)
+  <span class="nowrap">@ build-your-own.org</span>
+</p>
+</div>  <!-- .top-content -->
+
+<div class="bottom-content">
+
+<div class="codecrafters noprint" style="background-color: wheat; margin-bottom: 2em; border-radius: 1rem;">
+  <div style="padding: 1em;">
+    See also:
+    <br>
+    <a target="_blank" href="https://app.codecrafters.io/join?via=byo-books"><b>codecrafters.io</b></a>
+    offers “Build Your Own X” courses in many programming languages.
+    <br>
+    Including Redis, Git, SQLite, Docker, and more.
+    <br>
+  </div>
+  <a style="background-color: #cc7; color: #333; padding: 0.25em 0.5em;
+            border-top: 2px solid var(--bgl);
+            border-bottom-left-radius: 1rem; border-bottom-right-radius: 1rem;
+            display: block; text-align: center; text-decoration: none;
+            font-family: Verdana, sans-serif; letter-spacing: 0.06em;
+            font-weight: 500; font-size: 1.2em;"
+    target="_blank" href="https://app.codecrafters.io/join?via=byo-books">Check it out</a>
+</div>
+
+
+<div class="book-title" style="line-height: 1; margin-bottom: 0.6rem; font-size: 1.2em;">
+  Build Your Own Redis with C/C++
+</div>
+
+<div class="prev-toc-next noprint">
+  <a >prev ◄─┘</a>
+  <a href="index.html#table-of-contents">Contents</a>
+  <a href="/redis/01_intro_redis.html">└─► next</a>
+</div>
+
+</div>
+</div>  <!-- .main -->
+
+
+<style>
+/* footer */
+.page-footer {
+  padding: 1em 0;
+}
+.page-footer-content {
+  margin: 0 auto;
+}
+.page-footer-links {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  max-width: 21rem;
+  min-width: 20rem;
+  margin: 0 auto 1em auto;
+  padding: 0 1px;
+}
+.page-footer-links a {
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  line-height: 1.2;
+  font-weight: bold;
+  border-bottom: 3px solid currentColor;
+}
+.page-footer-site {
+  max-width: 21rem;
+  margin: 0 auto;
+}
+.page-footer-projects {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 0 auto 1em auto;
+  padding: 0 1px;
+  gap: 1em;
+  font-weight: bold;
+  & > a {
+    border-bottom: 2px solid currentColor;
+  }
+}
+.page-footer-site-name {
+  font-size: 1.75em;
+  line-height: 1;
+  color: gold;
+  text-align-last: justify;
+}
+.page-footer-copyright {
+  font-size: 0.85em;
+  width: 100%;
+  text-align-last: center;
+}
+@media (min-width: 640px) {
+  .page-footer-content {
+    display: flex;
+    flex-flow: row-reverse nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1em;
+  }
+  .page-footer-links {
+    margin: 0;
+  }
+  .page-footer-site {
+    margin: 0;
+  }
+  .page-footer-site-name, .page-footer-copyright {
+    text-align-last: left;
+  }
+  .page-footer-projects {
+    margin: 0 0 1em 0;
+    justify-content: start;
+  }
+}
+</style>
+
+<div class="page-footer noprint">
+  <div class="page-footer-content">
+    <div class="page-footer-links">
+      <a href="/">BOOKS</a>
+      <a href="/blog/">BLOG</a>
+      <a target="_blank" href="https://stats.sender.net/forms/erqPpd/view"
+        style="color: yellow;">SUBSCRIBE</a>
+      <a href="/blog/about/">ABOUT</a>
+    </div>
+    <div class="page-footer-site">
+      <div class="page-footer-site-name nowrap">Build Your Own X Projects</div>
+      <div class="page-footer-projects">
+        <a href="/redis/">Redis</a>
+        <a href="/database/">Database</a>
+        <a href="/compiler/">Compiler</a>
+        <a href="/webserver/">Web Server</a>
+      </div>
+      <div class="page-footer-copyright nowrap">
+        <span>© 2026 James Smith</span>
+        <span>&lt;<a href="/cdn-cgi/l/email-protection#1d776e5d7f68747179306472686f30726a7333726f7a"><span class="__cf_email__" data-cfemail="f59f86b597809c9991d88c9a8087d89a829bdb9a8792">[email&#160;protected]</span></a>&gt;</span>
+      </div>
+    </div>
+  </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "54b2e747b9606f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2056b69bab9451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf377c67b5b4a70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/modern-cli-workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "modern-cli-workflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fc65349c1cf485d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de516a018a6dd5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edca0f2b4cc673f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "410998b6cd78184c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:aws",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2387ee18bdd5963a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be2d64b3e437926b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f20d9b69f9bbd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6f36b18da788dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0e1777b7dd9a3eee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f9468b5717803b8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10821ab5d0c5d8f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ce305d484fd4741d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bf377c67b5b4a70f",
+  "lastOpenFiles": [
+    "wiki/concepts/performance-engineering.md",
+    "wiki/concepts/technical-interview-preparation.md",
+    "wiki/concepts/coding-interview.md",
+    "raw/articles/tools-productivity-batch-10a/bat.md",
+    "wiki/outputs/algorithm-patterns-interview.md",
+    "wiki/api-design-patterns.md",
+    "wiki/nest-js.md",
+    "wiki/node-js-backend.md",
+    "wiki/sources/nest-js-2026-api-design-research.md",
+    "research/nest-js-api-design/research_summary.md",
+    "research/nest-js-api-design",
+    "research",
+    "wiki/outputs/design-netflix-system.md",
+    "wiki/syntheses/leetcode-style-interviews-research.md",
+    "wiki/concepts/mock-interviews.md",
+    "wiki/concepts/unix-philosophy.md",
+    "wiki/concepts/thinking-aloud.md",
+    "wiki/concepts/teaching-methodologies-dsa.md",
+    "wiki/concepts/system-design.md",
+    "wiki/concepts/software-practices.md",
+    "wiki/concepts/serverless-computing.md",
+    "wiki/concepts/riscv.md",
+    "wiki/concepts/retry-and-backoff.md",
+    "wiki/concepts/personal-knowledge-management.md",
+    "wiki/concepts/pattern-recognition.md",
+    "wiki/concepts/parallel-and-concurrent-programming.md",
+    "wiki/concepts/operating-systems.md",
+    "wiki/concepts/observability-and-profiling.md",
+    "raw/archived_residue/tcp-ip-stack-ethernet-arp.html",
+    "raw/archived_residue/staffeng-guides.html",
+    "raw/archived_residue/refactoring-guru-design-patterns.html",
+    "raw/archived_residue/pragmatic-engineer-ai-engineer.html",
+    "raw/archived_residue/os-course-65810.html",
+    "raw/archived_residue/laws-of-se.html",
+    "raw/archived_residue/juliobiason-hard-way.html",
+    "raw/archived_residue/fallacies-of-distributed-computing.html",
+    "Untitled.canvas",
+    "raw/assets/images/yt_wr9I3Zs0Sf4.jpg",
+    "raw/assets/images/yt_Sn0bOX5Hau4.jpg"
+  ]
+}

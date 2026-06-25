@@ -1,0 +1,1939 @@
+
+YALE COURSES
+
+https://www.youtube.com/watch?v=wr9I3Zs0Sf4&list=PLh9mgdi4rNezGmUHVe4FAMHgSLXSqHV1n | nature of genius
+https://www.youtube.com/watch?v=vTs2IQ8OefQ&list=PLEDC55106E0BA18FC | financial theory
+https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185 | financial markets
+https://www.youtube.com/watch?v=qd3MJPHaotQ&list=PLBCB3059E45654BCE | roman architecture
+https://www.youtube.com/watch?v=4YY4CTSQ8nY&list=PLD00D35CBC75941BD | theory of literature
+https://www.youtube.com/watch?v=nM3rTU927io&list=PL6EF60E1027E1A10B | game theory
+https://www.youtube.com/watch?v=nzmFc2gjUo4&list=PLD1515420F4E601A4 | frontiers/controversies in astrophysics
+https://www.youtube.com/watch?v=Sn0bOX5Hau4&list=PL27E877E8206F196B | frontiers of biomedical engineering
+
+MIT COURSES -> https://ocw.mit.edu/search/?q=
+
+STANFORD COMP SCI COURSES -> https://bulletin.stanford.edu/departments/COMPUTSCI/courses?s=08
+
+SCIENCE AND ENGINEERING
+
+https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/ | https://www.youtube.com/playlist?list=PLdcw5wvaQEomvQjXjBo3L7cEqZ8xNECyA
+
+OPEN-SOURCE SOCIETY UNIVERSITY CS MAJOR
+
+https://github.com/ossu/computer-science 
+https://github.com/ossu/computer-science/blob/master/FAQ.md
+https://www.youtube.com/@mitocw/playlists | MIT courses
+https://ludwigabap.bearblog.dev/resources-for-cs/ | list of books to understand computers and programming languages from scratch
+https://github.com/jwasham/coding-interview-university
+
+You may have noticed that it only takes the most common Computer Science courses to become cracked
+
+https://www.edutube.app/
+https://code.org/?s=08
+
+Math:
+- Single/Multivariate Calculus
+- Linear Algebra
+- Discrete Math
+- Statistics
+https://sheafification.com/the-fast-track/?s=08
+
+Code-related:
+- C
+- Computer Architecture/Organization
+- Operating Systems
+- Data Structs/Algos
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+STANDOUT AS AN ENGINEER (at a company)
+
+https://matklad.github.io/2024/03/22/basic-things.html
+https://github.com/lambdaclass/lambdaclass_hacking_learning_path | tools, good practices
+https://ludwigabap.bearblog.dev/resources-for-cs/
+https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/
+https://dev.to/glasskube/standout-as-a-junior-engineer-work-slower-to-grow-faster-4ac3
+https://levelupsoftwareengineering.substack.com/p/breaking-the-staff-engineer-ceiling
+https://x.com/arpit_bhayani/status/1838782307877982374 | write self-assessments
+https://x.com/milan_milanovic/status/1839196414523453821
+https://x.com/GergelyOrosz/status/1869478010325258394 | ship projects successfully inside a larger tech company
+https://x.com/EthanEvansVP/status/1869172337825992886 | get promotions
+https://x.com/gkcs_/status/1868845571714273622 | reading papers
+https://x.com/var_epsilon/status/1873063724606452174 | good repos VS bad repos
+https://x.com/oznova_/status/1866628911620296755 | become more capable as an engineer
+https://ieeexplore.ieee.org/document/10109339 | defining and measuring technical debt
+https://x.com/fmontes/status/1868677210065756521 | show your work
+https://x.com/arpit_bhayani/status/1868497070161891725 | engineering manager
+https://0x0001.cc/blog/good-engineer.md
+https://www.youtube.com/watch?v=-gYHSPKjMTM | for hiring manager pov or some like that
+https://engineering.ramp.com/engineering-principles
+https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit?tab=t.0 | Khan Academy Engineering Career Development
+https://www.justinmath.com/advice-on-upskilling/
+https://mcyoung.xyz/2025/03/11/formatters/
+https://missing.csail.mit.edu/ | missing semester of your CS education
+https://www.benkuhn.net/pjm/ | run major projects
+https://learngitbranching.js.org/?locale=en | master git
+https://thilo-hermann.medium.com/software-architect-assistant-documentation-of-design-decisions-9543d3f0c077
+https://docs.google.com/document/d/1-L9UAmkgPnmBt99aE_RQ7MJVD-PnIBO-uQLkhXv9X4o | webdev primitives & fundamentals
+https://grantslatton.com/how-to-software
+https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer , https://newsletter.pragmaticengineer.com/p/ai-engineering-in-the-real-world
+https://newsletter.pragmaticengineer.com/p/what-is-a-principal-engineer-at-amazon
+https://www.engineerturnedrecruiter.com/p/why-product-based-companies-avoid
+https://medium.com/@kanishks772/stop-thinking-like-a-developer-the-architect-mindset-that-will-10x-your-back-end-skills-b35b168e7da4
+https://medium.com/@pudarimadhavi99/10-secrets-to-making-rock-solid-architectural-decisions-as-a-senior-developer-5f45e97fe69f
+https://humanwhocodes.com/blog/2024/04/managing-your-to-do-list-staff-engineer/
+https://humanwhocodes.com/reading/ | career books
+https://bytebytego.com/guides/
+https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/
+https://robbyonrails.com/articles/2025/10/13/architecture-for-contraction/
+https://robbyonrails.com/articles/2025/07/16/stop-pretending-youre-the-last-developer/
+https://www.perssondennis.com/articles/from-programmer-to-software-developer
+http://www.catb.org/~esr/writings/taoup/html/ch01s06.html | unix philosophy
+https://queue.acm.org/detail.cfm?id=3068754 | general approach to debugging
+https://third-bit.com/sdxjs | software design by showing how to build the tools that programmers use every day using JavaScript
+
+LEAR ABOUT GENERAL SYSTEM CONCEPTS
+
+- loose coupling
+- scalability
+- real-time
+- reliability
+- fault tolerance
+- integration
+- complexity
+- ordering
+- data consistency
+- debugging
+- retries
+- resync
+- back pressure
+
+"If you're capable of performing at the L+1 level, start doing so - do not wait to be promoted or compensated for it first. You are promoted, because you have already started taking on the responsibilities of the next level."
+
+"An approach I’ve long taken to understanding something that is complex and poorly documented is the following three steps:
+
+1. Read the existing documentation and the existing code, until a basic understanding is reached. Often there are serious misunderstandings or incorrect factorization at this step.
+
+2. Write my own implementation, even a very basic and broken one, preferably in a completely different language (which avoids the tendency to cut and paste anything). Revise my understanding based on what works and what doesn’t.
+
+3. Create new documentation and diagrams based on my new understanding. Refactor my implementation as necessary (the act of reviewing everything in order to document it often reveals incorrect factorizations). Correct documentation based on new understanding from refactoring code. Repeat until correct."
+
+´
+Fastest way to become a 10x dev:
+
+1. Learn Vim motions (neovim is fine) | https://www.vim-hero.com/lessons/intro-to-modes
+
+2. Install (and use) bat, ripgrep, difftastic, just, jq, starship, hyperfine, procs (look the tools below)
+
+3. Learn a FP language (Ocaml, used at Jane Street; Haskell; Erlang; Elixir; F#; Clojure; Scala; etc)
+  . check https://www.reddit.com/r/functionalprogramming/comments/o5287t/what_would_you_consider_to_be_the_best_popular/?rdt=37883
+  . https://ramdajs.com/ for JS
+   . https://github.com/getify/functional-light-js
+   . https://github.com/fantasyland/fantasy-land
+
+´
+
+TOOLS
+
+. https://logseq.com/
+. https://github.com/sharkdp/bat
+. https://github.com/BurntSushi/ripgrep
+   https://behacker.pro/que-es-ripgrep-y-por-que-es-tan-recomendado-para-hacer-busquedas-mas-rapidas/
+. https://github.com/Wilfred/difftastic
+. https://github.com/casey/just
+. https://github.com/starship/starship
+. https://github.com/sharkdp/hyperfine
+. https://github.com/dalance/procs
+. https://jqlang.github.io/jq/
+. https://github.com/chshersh/zbg
+. https://github.com/ghostty-org/ghostty
+. https://github.com/appsmithorg/appsmith | build internal workflows, panels, tools
+. https://highlightai.com/
+. https://highlightai.com/apps/conversations
+. https://github.com/rrweb-io/rrweb | replay user interactions on the web
+. https://generativeprogrammer.com/p/architecture-diagramming-tools-and
+. https://curius.app/ | research and share with others
+. https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)
+. https://k6.io/open-source/ , https://jmeter.apache.org , https://httpd.apache.org/docs/2.4/programs/ab.html , https://locust.io | api testing
+. Caddy | NGINX alternative
+. Biome | ESLint + Prettier
+. Bun   | Node.js alternative, 4x faster, built-in testing
+. Vim/NeoVim | https://www.vim-hero.com/lessons/intro-to-modes
+. https://github.com/eigent-ai/eigent | AI Cowork Desktop
+
+Design APIs
+
+. Stoplight studio
+. Swagger hub
+. Apicurio studio
+
+Test APIs
+
+. Postman
+. Insomnia
+. K6
+. https://netflix.github.io/chaosmonkey/How-to-deploy/
+. https://asatarin.github.io/testing-distributed-systems/
+. https://locust.io/ | load testing
+
+Deploy APIs
+
+. Kong gateway
+. AWS API Gateway
+. Railway
+
+Monitor APIs
+
+. New Relic
+. Datadog
+. Prometheus & Grafana
+. https://github.com/VictoriaMetrics
+. https://netflix.github.io/atlas-docs/overview/
+. https://www.evlog.dev
+
+1. fzf 
+2. ripgrep
+3. bat
+4. lsd
+5. starship
+6. just
+7. nushell 
+8. procs 
+9. k9s
+10. difftastic
+11. hyperfine
+
+MATH TOOLS 
+
+https://davidrolnick.com/teaching/fall-2020-mathematical-tools-for-computer-science/
+ .https://www.youtube.com/watch?v=z9s-EZ9d-I8&list=PLRjG0qaYlNykTsM5_mvm_I-ignrRPOyMW
+https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)
+https://heldercorreia.bitbucket.io/speedcrunch/ | calculator desktop app 
+https://www.desmos.com/scientific | calculator web app
+
+AI TOOLS
+
+. https://x.com/golangch/status/1900402260536156592
+. https://x.com/cj_zZZz/status/1899854874763821436
+. https://x.com/MikeBirdTech/status/1899797668693500353
+. https://www.instructa.ai/en/ai-prompts
+. https://github.me.uk/ | chat with codebases
+. https://aethera.ai/ | productivity
+
+
+RESEARCH
+
+. https://stackedlinks.com/
+. https://startupspells.com/
+. https://toolfinder.co/
+. https://blog.codingconfessions.com/p/a-software-engineers-guide-to-reading-papers
+
+BECOMING A STAFF ENGINEER
+
+https://staffeng.com/guides/
+https://staffeng.com/guides/engineering-strategy/
+https://blog.alexewerlof.com/p/staff-engineer-vs-engineering-manager
+https://blog.stackademic.com/youll-never-grow-past-senior-engineer-until-you-learn-this-one-skill-13420014fd90
+
+LEVELS AND SALARIES AT COMPANIES -> https://www.levels.fyi/
+
+CTO TIPS
+
+https://github.com/kuchin/awesome-cto
+https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177
+https://blog.pragmaticengineer.com/the-product-minded-engineer/ | product engineering
+https://mcfunley.com/choose-boring-technology
+https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/
+https://vaibhawvipul.github.io/2025/03/16/Culture-Compounds-The-Hidden-Engine-of-Deep-Tech-Success.html?s=08 | building deep tech culture
+
+WORKING IN/MANAGING TEAMS
+
+https://producteng.dev/p/counterfactuals-the-line-between-launch-hype-and-lasting-impact
+https://producteng.dev/p/synthetic-controls-the-technique-powering-the-world-s-best-product-teams
+https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-design-technical-management-and
+
+DROPOX ENGINEERING CAREER FRAMEWORK -> https://dropbox.github.io/dbx-career-framework
+
+STRAIGHT FORWARD AND SIMPLE PROGRAMMING | https://x.com/Hasen_Judi/status/1781698942935379975
+
+FAST TYPING | https://www.hackerrank.com/the-average-typing-speed-for-programmers/
+
+https://play.typeracer.com/
+https://codingspeedtest.com/
+
+ENGLISH
+
+https://silver.dev/english
+
+BUILD
+
+https://codingchallenges.fyi/challenges/intro/
+https://producteng.dev/p/from-zero-to-data-driven-the-indie-developer-guide-to-experimentation
+https://steal-this-idea.vercel.app/
+
+DEV SETUP
+
+https://minami.bearblog.dev/my-dev-workflow-2025/
+
+SOFTWARE TESTING/VERIFICATION
+
+https://cdn.vector.com/cms/content/know-how/aerospace/Documents/Complete_Verification_and_Validation_for_DO-178C.pdf
+https://www.rapitasystems.com/do-330
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DAVID DEUSTCH BOOKS
+
+https://ceramic-sf.github.io/2023/10/24/quick-boi.html
+https://accurate-sneeze-f35.notion.site/The-Beginning-of-Infinity-Worksheet-dcfeef9c89914945aa73fc2636bc5390
+https://accurate-sneeze-f35.notion.site/The-Fabric-of-Reality-Worksheet-d41c1a4f06e94d5bbe09d9d5f7159d8c
+
+HISTORY
+
+https://www.youtube.com/@HistoryMarche
+
+CHEMISTRY
+
+https://www.erowid.org/archive/rhodium/chemistry/index.html
+
+LEARN CHINESE
+
+https://drive.google.com/drive/folders/1vvhqfXXqdV3cmmLTXh4-di3v313gOzV4
+https://isaak.net/mandarin/
+
+LEARN JAPANESE -> https://learnjapanese.moe/guide/ | https://old.reddit.com/r/visualnovels/wiki/gambsguide | https://yomitai.app/?s=08 | https://shinjikai.app/?s=08#/ (arab-japanese dictionary)
+
+
+####################################### GENERATE LEARNING PATHS FOR SPECIFIC TOPICS | https://fluency-ai.com/ ####################################
+https://learnxinyminutes.com/
+
+
+BUILD YOUR OWN X -> https://github.com/codecrafters-io/build-your-own-x | https://app.codecrafters.io/catalog
+
+https://www.youtube.com/watch?v=0A_JpLYG7hM - https://www.youtube.com/watch?v=QPzrIp5kyho | vercel clone
+
+LEARN BY DOING -> https://github.com/practical-tutorials/project-based-learning
+
+OPEN LIBRARIES
+
+https://annas-archive.org/
+https://libgen.is/
+https://z-library.se/
+https://publications.opengroup.org/
+
+OS FEATURES IN BROWSER
+
+https://github.com/plasma-umass/browsix
+https://github.com/zen-fs/core | file system for the browser
+
+
+SELF HOSTING
+
+https://www.421.news/selfhosting-alojar-nube-hogarena/
+https://github.com/searxng/searxng | free research engine
+
+VISION -> https://thedankoe.com/letters/disappear-and-come-back-unrecognizable-12-rules-to-change-your-life
+
+DEEP WORK -> https://twitter.com/ecomEddie/status/1765022317745246248
+
+LEARN FAST -> https://degatchi.com/articles/how-to-learn-fast
+
+RESUME ->  https://x.com/ashishps_1/status/1797498028666065333
+
+KAIZEN -> https://twitter.com/GessnerJosh/status/1775146978810204388
+
+BIASES -> https://keepsimple.io/uxcore
+
+LESSWRONG - https://www.lesswrong.com/about
+
+https://www.lesswrong.com/hpmor
+
+REMOTE ACCESS YOUR DEVICES -> https://github.com/immense/Remotely
+
+IDEAS
+
+https://software.nasa.gov/
+
+SIMPLE PRODUCTIVITY WORKFLOW -> https://www.youtube.com/watch?v=GIRkQQHzsxI
+
+HOW TO ASK FOR HELP -> https://www.youtube.com/watch?v=ffcTwHZRhSk
+
+APPLYING FOR DREAM JOBS -> https://x.com/ankurnagpal/status/1795827728647917620
+
+PERSONAL KNOWLEDGE GRAPH
+
+https://github.com/raphaelsty/knowledge
+https://x.com/arscontexta/status/2016594876096204981 | obsidian + Claude code/another model
+https://x.com/0xaporia/status/2016777201945862167 | text-based learning with ai
+
+CONVERT TO SUMMARIZED DOCS -> https://github.com/hrishioa/lumentis
+SUMMARIZE YOUTUBE VIDEOS -> https://www.summarize.tech/
+https://pypi.org/project/youtube-transcript-api/ | get subtitles transcript from YouTube videos
+
+PDFS TO PODCAST -> https://huggingface.co/spaces/gabrielchua/open-notebooklm/tree/main
+
+CRYPTO GLOSSARY -> https://coinmarketcap.com/academy/glossary
+
+COBRAR EN DOLARES -> https://maxifirtman.medium.com/gu%C3%ADa-definitiva-para-cobrar-d%C3%B3lares-por-trabajos-del-exterior-en-argentina-impuestos-y-1d8ad2683c85 , https://wallbit.io/
+
+READ SOMETHING GREAT -> https://www.readsomethinggreat.com/ | https://leancrew.com/all-this/archive/ | https://www.reddit.com/r/SneerClub/ | https://cryptome.substack.com/ | https://www.jeremykun.com/main-content/ | https://twobithistory.org/ | https://www.benkuhn.net/progessays/?s=08 | https://laughingmeme.org/ | https://www.404media.co/ | https://slatestarcodex.com/about/ | https://www.astralcodexten.com/ | https://andymatuschak.org/ | http://www.phrack.org/issues/71/3.html | https://twostopbits.com/news?s=08 | https://lethalintelligence.ai/ | https://empathy.guru/ | https://www.deepthroatipo.com/ | http://www.neurohackers.com/ | https://nutritionfacts.org/ | https://offset.labr.io/offsets/ | https://www.pepysdiary.com/ | https://nintil.com/ | https://expandingawareness.org | https://www.wheresyoured.at | https://www.paulgraham.com/articles.html | https://abundance.institute/ | https://www.421.news/en/ | https://blog.codinghorror.com/recommended-reading-for-developers/
+
+**Check if shadow libraries are up -> https://open-slum.org/?s=08
+- https://www.lesswrong.com/posts/dyaPkCuXsBN8JrZCe/coercion-is-an-adaptation-to-scarcity-trust-is-an-adaptation
+- https://forum.effectivealtruism.org/posts/TwQzyP3QgttmuTHym/all-possible-views-about-humanity-s-future-are-wild
+- https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-design-technical-management-and
+
+TECHNICAL BLOGS/CHANNELS
+
+https://www.youtube.com/@MollyRocket/playlists
+https://lists.eatonphil.com/blogs.html
+https://www.cs.cornell.edu/~asampson/blog/
+https://anoma.net/blog
+https://www.openmymind.net/?s=08
+https://victorrentea.ro/blog/
+https://www.justinmath.com/blog/?s=08
+https://halobates.de/blog/
+https://redixhumayun.github.io/
+https://mohitmishra786.github.io/UnderTheHood
+https://www.muqsitbaig.com/blog/ | security blog
+https://newsletter.francofernando.com/ | system design
+https://beej.us/blog/
+https://manthanguptaa.in/ | distributed systems
+https://gafferongames.com/ | gamedev
+https://www.youtube.com/@YaleCourses/playlists 
+https://blogboard.io/source-feed/source/netflix-engineering-&-tech-blog
+https://timroughgarden.org/notes.html
+https://www.noemamag.com
+https://ntietz.com/blog
+https://www.iamtk.co
+https://zackoverflow.dev
+https://samwho.dev | interactive blogs
+https://www.makingsoftware.com
+https://www.industrialempathy.com/
+https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/
+https://blog.codinghorror.com/recommended-reading-for-developers/
+https://ferd.ca
+
+https://blog.x.com/engineering/en_us
+https://netflixtechblog.com
+https://research.google/teams/system-performance/
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
+
+AWESOME TUIs -> https://github.com/rothgar/awesome-tuis
+
+WRITING
+
+https://www.essayful.co/?s=08
+WRITE GREAT BLOGS -> https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html
+
+HOUSE WORK DIY
+
+https://www.youtube.com/@billshowto
+https://www.youtube.com/watch?v=8lQJlWmR1Ko | pick a lock
+https://www.doityourself.com/
+https://www.lysator.liu.se/mit-guide/mit-guide.html | lock picking guide
+
+DEV DOCS
+ -https://devdocs.io/
+
+PDF EDITOR -> https://www.sejda.com/es/pdf-editor
+
+REPOS
+ -https://sourcegraph.com/search
+ -https://github.com/lambdaclass/lambdaclass_hacking_learning_path
+ -https://github.com/trimstray/the-book-of-secret-knowledge
+
+
+FUNDRAISING
+ -file:///C:/Users/Bauti/Downloads/Raise%20Millions%20---%20The%20ultimate%20guide%20to%20fundraising%20for%20first-time%20founders%20by%20Tam%20Pham%20with%20Hustle%20Fund%20VC%20.pdf
+
+	.INVESTOR UPDATES
+	  .https://docs.google.com/document/d/1Y3SmneDvc11XLwPA8sPgci1HN5qNatRHkSNyGVcCJEU/edit
+	.CRYPTO FUNDS
+	  .https://docs.google.com/spreadsheets/d/1oPq7dt6hsntvmAhgPc8H0pcbUnbi7V6kX-FIOOVmlOk/edit#gid=0
+	.ACTIVE INVESTORS IN LAC
+	  .https://docs.google.com/spreadsheets/d/1MRVSIvMfslwDaKUO-K02NlX0YgAyhinbBFmjwV6iH3I/edit#gid=0
+
+SALES
+
+- https://www.jjellyfish.com/articles/the-pocket-guide-of-essential-early-stage-sales-advice?s=08
+- https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice
+- https://www.youtube.com/watch?v=9eIKKORQcjQ
+
+BUSINESS
+https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1 | YC startup guide
+https://x.com/benln/status/1913991478289863148 | YC resources
+https://x.com/aaditsh/status/1910671583104192766 | tools for building
+
+https://x.com/iamgdsa/status/1836768950039847085 | tik tok mkt
+https://x.com/money_cruncher/status/1827690792204513509 | register LLC with FinCEN
+https://github.com/fly-apps/smokescreen | manage outgoing web connections from fly apps 
+https://docs.hyperswitch.io/ | unified api for multiple payment processors
+https://www.learnprompter.com/p/ai-assistant-to-help-you-find-users
+https://openreplay.com/ | look over your users’ shoulder and see what went wrong
+https://docs.google.com/spreadsheets/d/1VuDmDRCuDsblVGkJed1rtrSxcsBokBa4950PtyjC-VI/edit#gid=2063471483 | growth hacks
+https://marketingexamples.com/
+https://growth.tlb.org/ | startup growth calculator
+https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/mobilebasic | Mochary method
+https://fi.co/benchmarks | startup funding benchmarks
+https://founderpal.ai/ | marketing strategies
+https://www.makerbox.club/free-resources
+https://twitter.com/thepatwalls/status/1773689100165317044
+file:///C:/Users/Bauti/Downloads/Key%20Takeaways.pdf
+https://longform.asmartbear.com/avoid-blundering
+https://longform.asmartbear.com/good-startup-ideas?s=08
+https://tribecap.co/a-quantitative-approach-to-product-market-fit/
+https://captable.inc/
+https://general-stop-7fb.notion.site/Resources-for-Starting-A-Company-772a6f9cc57e46f590c26179a08be6fb | startup tips
+https://www.youtube.com/watch?v=o_XTrsLLClo | negociacion
+https://x.com/marc_louvion/status/1787501337699315768?t=LJ_BCfw1k7WPIYQcbvlPOw&s=08 | marketing
+https://sockpuppet.org/blog/2015/03/06/the-hiring-post/ | hiring
+https://docs.google.com/document/d/e/2PACX-1vTFgkhHVLh2MVU05EIdV1feAFZXljeFbRZEvz24Sl3oSUR-m1VwMQlmlAV_n8B2WZQReGcKEwoFjput/pub | marketing
+https://x.com/aschwags3/status/1796499217168658904 | one user to lead to more than one more additional user, exponential growth, word of mouth
+https://x.com/StartupArchive_/status/1798321444247769294 | early employees equity
+https://x.com/nikitabier/status/1481118406749220868 | growth tips | https://x.com/nikitabier/status/1798372438960730423
+https://boristane.com/blog/learnings-from-starting-building-and-exiting-a-devtools-startup/
+https://longform.asmartbear.com/customer-development
+https://www.youtube.com/@BusinessUntitled
+https://www.youtube.com/watch?v=MrxTCmP521Y | the art of going viral - MSCHF Founder Gabe Whaley
+https://www.youtube.com/watch?v=Faa61PFMeFU | MSCHF creative co-directors studio process
+https://every.to/napkin-math/the-art-of-scaling-taste
+https://www.rippling.com/ | all-in-one HR platform for employees (insurance and several other benefits usually only available to big companies)
+https://shamelessplug.life/ | marketing leads generation
+https://x.com/codyschneiderxx/status/1813570381355389313 | cold emails
+https://x.com/businessbarista/status/1813935436718572004 | founder-led content
+https://blakemasters.tumblr.com/peter-thiels-cs183-startup | "zero to one" Harvard class notes
+https://x.com/Frans81/status/1813975335891067325 | pricing your product the right way
+https://posthog.com/newsletter/ideal-customer-profile-framework | https://x.com/DmytroKrasun/status/1815388986946318761/photo/1
+https://x.com/boringmarketer/status/1816195631033246165
+https://x.com/desmondhth/status/1824450807162700262 | marketing, reels, tiktok
+https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/ | YouTube videos
+https://x.com/nikitabier/status/1916995339732602916 | product's core flow automatically spreads it to new users
+https://x.com/nikitabier/status/1916156794663055865 | looking for PMF
+
+1. r/SaaS
+2. r/SideProject 
+3. r/Entrepreneur 
+4. r/startups
+5. r/RoastMyStartup 
+6. r/Freepromote 
+7. r/IndieBiz
+8. r/InternetIsBeautiful
+
+BOOTSTRAPING BOOKS
+
+The SaaS Playbook
+Million Dollar Weekend
+Buy Back Your Time
+The Minimalist Entrepreneur
+Life Profitability
+Zero to Sold by Arvid Kahl
+Start Small, Stay Small
+
+The Mom Test
+Founding Sales
+Obviously Awesome
+Deploy Empathy
+
+PRIVACY
+
+Messaging apps -> signal, session, threema, matrix
+https://www.totalprivacy.io/cursos
+
+https://www.421.news/selfhosting-alojar-nube-hogarena/
+https://reticulum.network/
+https://unsigned.io/index.html
+https://github.com/Lissy93/personal-security-checklist?s=08	
+https://twitter.com/vdecrypto/status/1747696549831012857?t=c3Rv7qhhOWuKGQeRnXGy1w&s=08
+https://twitter.com/vdecrypto/status/1750594898137612340?t=BJskWp4ABwCIAKltAHbISg&s=08
+https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/
+https://anonymousplanet.org/links.html
+https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
+https://twitter.com/nicopachecolas/status/1757385931743432863?s=20
+https://github.com/BushidoUK/Operational-Security-101
+https://temp-number.com/ | get a temporal number for receiving codes/sms from services
+https://www.xatakamovil.com/tutoriales/como-obtener-numero-telefono-virtual-para-segundo-whatsapp
+https://github.com/aforensics/HiddenVM?tab=readme-ov-file
+https://tails.net/
+https://twitter.com/RavePrivacy/status/1780301593209971002
+https://twitter.com/StarkPrivacy/status/1779946761462681771
+https://www.youtube.com/channel/UCzfwE0vRWZrSqYmfBd42fIA | rave privacy youtube channel
+https://www.activism.net/cypherpunk/manifesto.html
+https://www.activism.net/cypherpunk/anon.shtml | anonymizer resources
+https://www.freeswan.org/freeswan_trees/freeswan-2.06/doc/intro.html | https://www.freeswan.org/ | protect any traffic carried over IP
+https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/
+https://blog.lopp.net/how-to-protect-your-home-network-with-a-gigabit-vpn/
+https://x.com/RavePrivacy/status/1786096829739696322?t=N5VTMDtM54DEJ20SRpzEMw&s=08
+https://mullvad.net/es/why-privacy-matters/going-dark
+https://crypton.sh/ | your 2nd phone number in the cloud
+https://docs.google.com/document/d/1iWCqmaOUKhKjcKSktIwC3NNANoFP7vPsRvcbOIup_BA/edit | remove facial id from search engines
+https://github.com/skot/loriques | solar powered Meshtastic LoRa gateway
+
+ML/AI/DATA SCIENCE 
+
+https://github.com/karpathy/nanochat/discussions/1 | https://gist.github.com/JustinAngel2/acc3a9da5369456be19cab5d3ea9ef07
+https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction | build LLMs from scratch
+
+https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+https://hy3na.com/posts/compilers.html?s=08 | towards ai high-performance compilers
+https://www.alejandrocrosa.com/prompting-techniques
+https://lethalintelligence.ai/
+https://www.iamtk.co/my-experience-learning-machine-learning-and-mathematics
+https://www.tensortonic.com | leetcode for AI
+https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning
+
+ .REPOS -> https://huyenchip.com/llama-police
+
+Data
+-file:///C:/Users/Bauti/Downloads/Pandas_Cheat_Sheet.pdf
+-https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#plotting
+-https://www.w3schools.com/python/pandas/pandas_exercises.asp
+-https://numpy.org/doc/stable/user/basics.rec.html
+-https://numpy.org/doc/stable/reference/routines.math.html
+-https://leetcode.com/studyplan/30-days-of-pandas/
+-https://github.com/pola-rs/polars | pandas written in rust
+-https://feaz-book.com/ | book for data modeling engineering practices
+
+ML
+https://harmless-keeper-948.notion.site/SUPERNOVA-ac34169297104947a752841a0345ab6f
+https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp | CMU advanced NLP course
+https://x.com/saurabhalonee/status/1832079101122826544 | list of resources
+https://github.com/stas00/ml-engineering/tree/master/compute/accelerator | GPUs, TPUs, IPUs, FPGAs, HPUs, QPUs, RDUs
+https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j | gpu programming
+https://www.semianalysis.com/p/the-memory-wall
+https://github.com/karpathy/nanoGPT
+https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ | karpathy's neural networks: zero to hero
+https://andymatuschak.org/prompts/ | how to write good prompts
+- https://github.com/rasbt/LLMs-from-scratch | implementing a chatGPT-like LLM from scratch
+- https://www.youtube.com/watch?v=zjkBMFhNj_g
+- https://twitter.com/shauryr/status/1727685228309725509?t=J-ozrYF4JYZRrawQ0Vpslg&s=08 | fine-tune and deploy your model
+- https://github.com/dair-ai/Prompt-Engineering-Guide?s=08
+- https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en | data scraping
+- ttps://huggingface.co/chat
+- https://twitter.com/svpino/status/1758929343240372426?s=20
+- https://github.com/ritchieng/the-incredible-pytorch
+- https://github.com/galaxyproject/galaxy | for data intensive science projects
+- https://www.digdag.io/
+- https://nousresearch.com/forge/ | local IDE for llms
+- https://twitter.com/karan4d/status/1768836844207378463 | world-sim prompt (entity simulation)
+- https://github.com/tinygrad/tinygrad | deep learning framework
+- https://huggingface.co/databricks/dbrx-instruct
+- https://docs.ragas.io/en/stable/?s=08 | framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines
+- file:///C:/Users/Bauti/Downloads/ml-ops.pdf | success recipe for ml ops (deploy and maintain ML pipelines in production)
+- https://minitorch.github.io/ | diy teaching library for machine learning engineers
+- https://github.com/teknium1/Prompt-Engineering-Toolkit
+- https://sebastianraschka.com/books/
+
+DL
+https://github.com/adam-maj/deep-learning
+https://udlbook.github.io/udlbook/ | collab notebooks for "Understanding Deep Learning" book
+
+PLANIFICACION PATRIMONIAL
+
+-https://www.youtube.com/martinlitwak
+-https://twitter.com/MartinLitwak/status/1768069032123494520
+
+BOOKS
+-https://twitter.com/AlexAndBooks_/status/1757416798004076972?s=20
+-https://twitter.com/readswithravi/status/1765938213086953963
+-file:///C:/Users/Bauti/Downloads/Jay%20Wengrow%20-%20A%20Common-Sense%20Guide%20to%20Data%20Structures%20and%20Algorithms_%20Level%20Up%20Your%20Core%20Programming%20Skills-Pragmatic%20Bookshelf%20(2020).pdf
+-file:///C:/Users/Bauti/Downloads/Introducing_The_Art_of_Statistics_How_to_Learn_fro.pdf
+-file:///C:/Users/Bauti/Downloads/Introduction_to_algorithms-3rd%20Edition.pdf
+-file:///C:/Users/Bauti/Documents/black-hat-python.pdf
+-https://twitter.com/readswithravi/status/1773034549439500547
+-https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists
+-https://colorforth.github.io/books.htm
+-https://colorforth.github.io/POL.htm | programming a problem-oriented language - chuck moore
+-https://github.com/KnowNo/books-7
+-https://github.com/KnowNo/books-3
+
+SEO
+
+https://github.com/madawei2699/awesome-seo
+https://github.com/oxnr/awesome-analytics?tab=readme-ov-file#seo
+https://developers.google.com/search/docs/fundamentals/how-search-works?visit_id=638605633481247096-29399410&rd=1&hl=es-419
+https://support.google.com/webmasters/answer/9128669?hl=es#zippy=%2Cdesarrollador-web
+https://developers.google.com/search/docs/fundamentals/get-started?sjid=13940827540567184384-SA&hl=es-419
+https://twitter.com/johnrushx/status/1745319375299866989?t=KWYAasYW1STKKh5-sqB_rQ&s=08
+https://twitter.com/goenning/status/1750087051146399814?t=SGbwdEqP6rSbNHi1D8hx1g&s=08
+https://twitter.com/0xglitchbyte/status/1766283363185500575
+https://nav.al/deutsch-files-i
+https://twitter.com/readswithravi/status/1766843136507060279
+https://marclou.beehiiv.com/p/how-to-grow-a-micro-startup-with-programmatic-seo
+https://twitter.com/illyism/status/1780186515693347306
+https://x.com/natiakourdadze/status/1795846129386438804
+https://x.com/johnrushx/status/1795942093568745793
+https://x.com/natiakourdadze/status/1796583338376839331
+https://x.com/marc_louvion/status/1797648193272029223
+https://x.com/natiakourdadze/status/1801292167911977152
+https://www.reddit.com/r/indiehackers/comments/1dpnef5/350_places_to_post_your_project/
+https://docs.google.com/spreadsheets/d/1Ky8NU5nhSi_zYHBbvxvofOmMRZf0r3MwiM0apoe8Pvk/edit?gid=0#gid=0
+https://x.com/natiakourdadze/status/1817240736888463420
+https://x.com/natiakourdadze/status/1816518447356084539
+https://x.com/jspujji/status/1816477709117317611
+https://x.com/codyschneiderxx/status/1824566815571243371
+https://x.com/jakezward/status/1821881030590042203
+https://x.com/codyschneiderxx/status/1821675164960190932
+https://x.com/johnrushx/status/1823424084618666439
+
+tools
+
+https://app.indexrusher.com/
+https://app.seobotai.com/
+📈 Ahrefs
+📊 RankIQ
+🔍 SEMrush
+🤖 Perplexity
+📝 StoryChief
+🕷️ Screaming Frog
+🔑 Keywords Everywhere
+
+0. Just do SEO and email marketing.
+1. Forget about PageSpeed report
+2. Find your MAIN keyword 
+3. Find overlooked long-tail keywords that are connected to your product
+4. Build free tools to get backlinks
+5. Don't just do 1000 ChatGPT blog posts
+
+If you want to find low-competition keywords for your startup and crush your competition:
+
+1. Google “Semrush Keyword Gap”
+2. Add domains to compare your keyword profiles
+3. Find the section “Top Opportunities”
+4. Save ideas and go to Google search console
+5. Match the new keywords with ones you are almost ranking for
+
+1. Go to Google Search Console (GSC)
+2. Add a sitemap and submit it
+3. Access “Inspect any URL” search bar
+4. Manually request indexing for new pages
+5. Google will crawl them faster
+
+FINANCE
+
+---
+https://github.com/astral-sh/uv | fast python package manager
+---
+
+https://www.youtube.com/watch?v=A2lyrAwjf58&list=PLs6THB5KHWo2k0OdWXbu_pB_0n2KzpGC1 | series of practical lessons for quant trading
+https://www.janestreet.com/performance-engineering
+-https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities
+-https://docs.google.com/spreadsheets/d/1Lz1yeIQCXICUMR6Ij9HtmCudK_DGZFNqGx2wMvtJHDE/edit#gid=0 | levels' portfolio
+-https://docs.google.com/spreadsheets/u/0/d/1Lz1yeIQCXICUMR6Ij9HtmCudK_DGZFNqGx2wMvtJHDE/htmlview
+-https://twitter.com/levelsio/status/1748713482692759647?s=20
+-https://twitter.com/santivende/status/1757520972272333127?s=20
+-https://www.dropbox.com/scl/fo/dcjs09n8o1n9who0vo4nl/AEEyJobdueF2nZb_64hRAGE?rlkey=liz1nlorbnzzolzhyv88sp69u&dl=0
+-https://twitter.com/quant_arb/status/1777727232607199710 | dirty quick backtesting
+-https://www.algos.org/
+-https://www.dropbox.com/home/NYU%20notes | quant trading
+-https://github.com/firmai/financial-machine-learning
+-https://www.bitsaboutmoney.com/archive/
+-https://x.com/__paleologo/status/1798866756641189921 | quant portfolio management & development books
+https://github.com/letianzj/QuantResearch
+https://www.financialdatasets.ai/?s=08
+
+Probably the best review of financial machine learning applications out there: file:///C:/Users/Bauti/Downloads/finance-ml-best-approachs.pdf
+Some insights (TL;DR):
+
+- The paper discusses the two main "cultures" in financial economics - the structural hypothesis testing culture and the prediction model culture.
+- Prediction models using machine learning can provide better forecasts of asset returns and risk premia, even if the underlying economic mechanisms are not fully understood. This can still be economically valuable for investors and policymakers.
+- Dimension reduction techniques like Partial Least Squares (PLS) and Principal Portfolio Analysis (PPA) can extract the most predictive portfolios from a large set of signals, and these principal portfolios offer high Sharpe ratios out-of-sample.
+- Decision tree models like boosted regression trees can effectively capture nonlinear and interaction effects in predicting asset returns and covariances, which is important for testing asset pricing models like the ICAPM.
+- Text-based sentiment analysis models like Sentiment-Embedded Stock Text Model (SESTM) can extract predictive information from unstructured text data to forecast stock returns, outperforming simpler dictionary-based approaches.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APPLYING
+
+https://x.com/ankurnagpal/status/1795827728647917620 | applying for your dream job
+https://x.com/GabrielPeterss4/status/1898566138352820561 | never compete for a job, standout as the obvious choice | https://x.com/GabrielPeterss4/status/1898621921333330096
+https://x.com/GabrielPeterss4/status/1959407308842360985
+https://x.com/harleyf/status/1914375969668047322
+https://www.engineerturnedrecruiter.com/p/why-product-based-companies-avoid
+https://alexw.substack.com/p/hire
+https://x.com/GabrielPeterss4/status/1959407308842360985?t=oUCdurlYxysJpL7dNrJ_IQ
+https://x.com/GabrielPeterss4/status/1964896727263257049
+
+STUDYING
+
+https://www.youtube.com/watch?v=dk3dQf7yZFI | what to study, what to dismiss, focus on one thing
+
+ .MATH
+  .Math Academy | https://mathacademy.com/courses
+  .check math section here
+  .https://algo.monster/problems/math-basics
+  .https://www.geeksforgeeks.org/dsa/maths-for-data-structure-and-algorithms-dsa-a-complete-guide/
+  .https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning
+
+ .DSA
+  .Neetcode for using its roadmap as guide (can pay $59 annual for premium access to videos) | https://neetcode.io/roadmap
+  .algorithms implemented in JavaScript | https://github.com/trekhleb/javascript-algorithms
+  .https://blog.algomaster.io/p/15-leetcode-patterns
+  .https://seanprashad.com/leetcode-patterns/
+  .https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
+  .https://timroughgarden.org/videos.html
+  .https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V | playlist 1
+  .https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6 | playlist 2
+  .https://www.algorithmsilluminated.org | books to follow along with the videos (part 1, 2, 3 and 4)
+  .https://medium.com/p/e86d5c9fe4e1 | problem-solving patterns
+  .https://medium.com/@himanshusingour7/how-i-spent-2-hours-daily-on-dsa-for-5-years-and-im-still-going-46d4145303eb
+  .https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/
+  .https://x.com/system_monarch/status/2043298521709981753
+
+INTERVIEW
+
+.MOCK INTERVIEWS
+
+https://interviewing.io/mocks
+
+.Questions
+
+Why do you want this job?
+What's a tough problem you've solved?
+Biggest challenges faced?
+Best/worst designs seen?
+Ideas for improving an existing product
+How do you work best, as an individual and as part of a team?
+Which of your skills or experiences would be assets in the role and why?
+What did you most enjoy at [job x / project y]?
+What was the biggest challenge you faced at [job x / project y]?
+What was the hardest bug you faced at [job x / project y]?
+What did you learn at [job x / project y]?
+What would you have done better at [job x / project y]?
+
+.EXPONENT -> https://www.tryexponent.com/courses/software-engineering
+
+.HELLO INTERVIEW -> https://www.hellointerview.com/learn/code
+
+.SILVER DEV
+https://github.com/conanbatt/interview-practice/tree/main/coding-challenges
+https://drive.google.com/file/d/1pXBly8qSvul1aXZgWep_ruFhAdqsVJbc/view
+https://github.com/conanbatt/interview-practice
+https://silverdev.notion.site/LinkedIn-Checklist-0d76b9ab43084d7891cea7535c16c174
+https://silverdev.notion.site/System-Design-Guide-62f991eb1cf049a9a9fb3c37e5227a6d
+https://ready.silver.dev/blog/estrategias-para-devs-que-quieren-entrevistar-con-empresas-americanas
+https://docs.silver.dev/interview-ready/technical-fundamentals/system-design-i#gu%C3%ADa-de-system-design
+https://docs.silver.dev/candidate-guide
+https://leetcode.com/problem-list/nx59ovcj/ | list 20 problems easy IR
+https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+
+https://silverdev.notion.site/Instrucciones-para-tener-una-buena-entrevista-by-Mariano-Crosetti-d2aa4d2c83d94fefa4f225ee488eb013
+
+https://bugfree.ai | mock interviews for coding and system design
+
+.DSA14
+https://www.14dsa.com/
+https://www.14dsa.com/blog/master-dsa-fast
+https://www.14dsa.com/blog/job-guide-immigrants
+https://www.14dsa.com/blog/effective-job-applications
+https://www.14dsa.com/blog/resume-guide
+
+https://www.algochurn.com/
+https://docs.google.com/document/d/1MYvAZzsxc3zazXDS-oPLJ_mBEpl28a1WinamBxnHaxY/edit?tab=t.0#heading=h.ky3j1l21mnzt | guide for immigrants
+https://drive.google.com/drive/folders/1WY4im0uCKIQAsbvLFjDc2mEtFhnEsvQP | resources (dsa, behavioral, system design)
+
+GETTING INTO FAANG/MAANG
+
+https://medium.com/@techiestalks/journey-from-tier3-college-to-faang-a-conversation-f85d8a44d7de
+https://medium.com/@techiestalks/college-graduates-interview-preparation-plan-06568385659c
+https://medium.com/@techiestalks/how-i-switched-to-microsoft-with-2-years-experience-0db8fb2c6274
+https://medium.com/@techiestalks/college-graduates-interview-preparation-plan-06568385659c
+https://medium.com/@rohitverma_87831/my-interview-experience-at-meta-ad7eb22dd220
+https://prepfully.com/interview-guides/meta-frontend-engineer
+https://prepfully.com/interview-guides/meta-software-engineer
+https://x.com/Vit_Bhandari/status/1869123381465084375 | navigating job market
+https://interviewing.io/mocks
+
+ .NETFLIX
+  .https://interviewing.io/guides/hiring-process/netflix
+  .https://www.tryexponent.com/guides/netflix-software-engineer-interview
+  .https://explore.jobs.netflix.net/careers
+  .https://asatarin.github.io/testing-distributed-systems/#netflix
+  .https://netflixtechblog.com
+  .https://theskilledcoder.com/posts/system-design/how-would-you-design-a-video-on-demand-platform-like-netflix
+  .https://theskilledcoder.com/posts/system-design/how-do-you-build-a-live-streaming-platform-for-millions-of-viewers
+  .https://theskilledcoder.com/posts/system-design/how-would-you-design-a-recommendation-engine-for-millions-of-users
+
+TIPS
+
+https://rosettacode.org/wiki/Category:Programming_Tasks | solve problems
+https://elementsofprogramminginterviews.com/
+https://medium.com/@kanishks772/i-interviewed-20-engineers-heres-why-most-can-t-code-b647d23f8c89
+https://brianjenney.medium.com/i-used-to-suck-at-coding-interviews-then-i-quadrupled-my-salary-9d5260389a09
+https://www.meetapro.com/blog/how-to-effectively-prepare-for-google-and-meta-coding-interviews-using-leetcode-36
+https://x.com/system_monarch/status/2043298521709981753
+
+SCREENING & BEHAVIORAL
+
+https://www.youtube.com/watch?v=T__1QViXUxk | why "lying" gets you the job (being politically and socially correct)
+https://www.youtube.com/watch?v=KVMZgY2KNto
+
+TAKEHOME CHALLENGES
+
+https://github.com/imzak31/evenbiz-technical-assesment | prime example to excel
+
+MISCELLANOUS
+
+https://www.shivambhadani.com/student-guide
+https://x.com/theadnaankhan/status/1836439346125148538
+https://www.reddit.com/r/devsarg/comments/1fla6mc/soy_programadorrecruiter_y_trabaj%C3%A9_en_usa_por_m%C3%A1s
+https://www.rareskills.io/post/best-50-leetcode-questions-to-start
+https://blog.algomaster.io/p/15-leetcode-patterns
+https://visualgo.net/en | visualize data structures
+
+https://github.com/goncy/interview-challenges
+https://github.com/blindma1den/Programming-Skills-Level0?s=08
+https://github.com/jwasham/coding-interview-university
+https://github.com/kdn251/interviews
+https://github.com/yangshun/tech-interview-handbook
+https://leetcode.com/discuss/interview-question/object-oriented-design/4440061/Top-16-OOPs-interview-questions-with-answers?s=08
+https://blog.algomaster.io/p/solid-principles-explained-with-code
+https://www.youtube.com/watch?v=KVMZgY2KNto | PostHog's startup interview questions that actually matter
+
+COMPANY-WISE
+
+https://github.com/hxu296/leetcode-company-wise-problems-2022
+https://algo.monster/interview-guides
+https://algo.monster/problems/stats
+
+.Como procurar estar listo para dar respuestas a todo lo que se presente. Con respuestas estructuradas, analíticas, que propongan un plan, contrasten alternativas, consideren riesgos, protocolos para manejar diversas necesidades, y tener una trayectoria con métricas que respalden el que sabes lo que estás haciendo y logras cambios importantes, para que confíen en vos. Y en caso de no tener una solución a un problema, hacer lo mismo que dije recién para conducir una investigación.
+
+También darle durante años a mejorar la excelencia técnica y la implementación de herramientas, patrones, y protocolos que te obliguen a hacer las cosas bien.
+
+Siempre sabiendo cómo comunicar todo para que superiores y colegas tengan las cosas fáciles con uno. Y para capacitar más fácilmente a quien lo requiera.
+
+Con esto busco romperla ya en las screenings, así te priorizan en el pipeline de contratación. En cada entrevista hago lo mismo, así todos los involucrados apuran para que hagan una oferta. El CV está diseñado para causar el mismo efecto aún sin que me entrevisten
+
+Cuando los tengo a todos con el anzuelo, tiro y les digo que tengo otras ofertas. Que lo tengo que pensar, y veo si me ofrecen algo más. No es necesario tener otras ofertas. Sólo digo que tengo un par superadoras en lo económico o beneficios, y otra similar para que no se sientan tan desubicados.
+
+
+	TECHNICAL EXPERIENCE CONVERSATION
+
+	  .Conviene profundizar en conceptos teóricos y narrativa (Metodo STAR). Te va a ir bien si eres capaz de argumentar, desde un conocimiento fundamentalista de la técnica los problemas que hayas resuelto, el como y el por qué + narrar los trade-offs.
+
+	  .Cuando hice ese tipo de entrevistas el objetivo era ver cuánto sabía el entrevistado de un problema que había resuelto, la mayoría nunca llega al 5to nivel de profundidad y admite de manera explícita ó implícita que el trabajo difícil lo hizo otro. Más aún con personas de Latam que usan en “we”. Si te piden que hables de un problema complejo que resolviste preparará bien no sólo el story telling con STAR u otro formato similar, sino también poder hacer un deep dive al detalle.
+
+	  .Primero preguntábamos por experiencia, proyectos en los que haya participado la persona, cosas que nos quisiera contar.
+De ahí, sacábamos preguntas más técnicas que fueran relevantes.
+Algo en lo que una cantidad tremenda de gente hacía agua eran promises, await/async, qué era un hook y cuál era el ciclo de vida en react
+
+	  .A veces te dicen eso y te empiezan a pedir que les expliques closures y principios SOLID
+
+	SYSTEM DESIGN
+	  .https://github.com/donnemartin/system-design-primer
+	  .Grokking System Design Interview (read pdf book, do the Educative course)
+	   .https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+	  .https://github.com/karanpratapsingh/system-design (read pdf book System Design)
+	  .https://www.youtube.com/@jordanhasnolife5163/playlists | real companies' systems
+	   .https://www.youtube.com/playlist?list=PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ | system design course
+	  .https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL | sys design mock interviews
+	  .https://www.youtube.com/watch?v=pMuiVlnGqjk | DDD - Domain Driven Design Overview (check book)
+	  .https://pdos.csail.mit.edu/6.824/schedule.html | https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB | MIT's Distributed Systems
+	  .https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367
+	  .https://medium.com/frontend-interviews/top-frontend-system-design-questions-nobody-prepares-for-3db549892518
+	  .https://medium.com/thesystemdesign/50-scenario-based-system-design-questions-for-senior-developer-interviews-part-1-5-667c85cf32b1
+	  .https://systemdesignfightclub.com
+	  .https://www.seangoedecke.com/good-system-design/
+	  .https://github.com/Sairyss/system-design-patterns
+	  .https://github.com/bytebytegohq/system-design-101 | https://bytebytego.com/guides/
+	  .https://systemssaturday.substack.com/p/systems-saturday-11-building-resilient
+	  .https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB | Martin Kleppman DDIA
+	  .https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf
+
+	  .https://www.youtube.com/playlist?list=PLsdq-3Z1EPT0RrDebPvBNlmuXDfT6Qs2T | real world system designs
+	  .https://www.youtube.com/watch?v=sSpULGNHyoI | architecting large software projects (platforms, languages, hardware, priorities, people) in modules for teams to take on
+	  .https://medium.com/@kanishks772/from-code-to-diagram-in-seconds-the-lazy-developers-guide-b48987837bd3
+	  .https://www.tryexponent.com/courses/system-design-interviews/mock-interview-design-instagram
+
+	  .https://silverdev.notion.site/System-Design-Guide-62f991eb1cf049a9a9fb3c37e5227a6d
+	  .https://docs.silver.dev/interview-ready/technical-fundamentals/system-design-i#gu%C3%ADa-de-system-design
+	  .https://bytebytego.com/ | https://www.youtube.com/@ByteByteGo
+	  .https://www.geeksforgeeks.org/system-design/system-design-tutorial/
+	  .https://fly.io/dist-sys/ | system design projects
+	  .https://levelup.gitconnected.com/designing-whatsapp-a-story-of-building-a-real-time-chat-system-from-scratch-be2eb5a6ab7e
+
+	  .https://sadservers.com/ | LeetCode for Linux: solve infra problems
+
+	  .https://blog.algomaster.io/p/scalability
+	  .https://blog.algomaster.io/p/system-design-how-to-scale-a-database
+	  .https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem
+	  .https://x.com/ProgressiveCod2/status/1827596977413964130
+	  .https://www.youtube.com/watch?v=FiXOaYnW64w | high-level system design by coding YouTube
+	  .https://medium.com/@ozanani/software-architecture-is-hard-71fe3ddafb60
+	  .https://github.com/javabuddy/best-system-design-resources
+	  .https://github.com/Coder-World04/Complete-System-Design
+	  .https://newsletter.francofernando.com/ | https://newsletter.francofernando.com/p/how-not-to-fail-a-system-design-interview
+	  .https://medium.com/simpplr-technology/microservices-architecture-the-hard-parts-trap-of-distributed-monolith-7d707858aa32
+	  .https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html | aws S3
+	   .file:///C:/Users/Bauti/Downloads/key-value-storage-node-in-amazon-s3.pdf
+	  .https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+	  .https://roadmap.sh/redis
+
+      ALGORITHMS
+
+	.el entrevistador necesita evidencia para defender un yes. preguntar de antemano para evitar invertir tiempo en algo que no ayuda a armar tu caso.
+
+	.COMPETITIVE PROGRAMMING
+	 
+	 .https://github.com/FakePsyho/cpcontests | solutions and templates for CP contests (C++)
+	 .https://blog.marianocrosetti.com/introduction-to-icpc-algorithm-problem-solving-d49b9e1f70b3
+
+	 .COLIN GALEN	
+	  .https://www.youtube.com/@ColinGalen | https://codeforces.com/blog/galen_colin
+	  .https://www.youtube.com/watch?v=bSdp2WeyuJY | roadmap for competitive programming (algorithms)
+	  .https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y/edit
+	  .https://www.youtube.com/watch?v=1f6N2UrCK6o&list=PLDjGkpToBsYB5ReiqewT0lkjmP1Quxry-&index=32 | Unlocking Your Intuition: How to Solve Hard Problems Easily
+	  .https://www.youtube.com/watch?v=Dm68uFy6gus&list=PLDjGkpToBsYB5ReiqewT0lkjmP1Quxry-&index=33 | Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)
+	  .https://www.youtube.com/watch?v=RDzsrmMl48I&list=PLDjGkpToBsYB5ReiqewT0lkjmP1Quxry-&index=8 | The Black Box Method: How to Learn Hard Concepts Quickly
+	   .https://medium.com/@vndpal/the-black-box-method-how-i-learn-new-tech-faster-dc12508a6f24
+	  .https://www.youtube.com/watch?v=ND_2kDm2BWE&list=PLDjGkpToBsYB5ReiqewT0lkjmP1Quxry-&index=30 | Guess The Algorithm Challenge (FAANG Interview Questions), build intuition, improve pattern recognition 
+	  .https://www.youtube.com/watch?v=NfUxtnJ0CaY&t=23s | The Dark Side of CP
+	  .https://www.youtube.com/watch?v=1f6N2UrCK6o&list=PLDjGkpToBsYB5ReiqewT0lkjmP1Quxry-&index=33 | Unlocking Your Intuition: How to Solve Hard Problems Easily
+
+Play ‘20 questions’ or ‘Guess Who’, but with your problem
+
+I.e., Ask a question; then answer that question. Not even technical questions - start simple and work up in granularity/complexity (where complexity means how many different ideas are compounded/nested/taken as givens) 
+
+Think about the objects, their properties, the relationships. Does the structure that arises resemble anything? In what ways could you argue that it differs? What would your argument be that it is similar enough that you can reuse what you know works with the analogous structure? 
+
+Map Problem Components to Solution Components, then "revisit" them while solving a new problem.
+
+I think this kind of incremental, paced, and discursive approach is very revealing. Having a gentle argument to-and-fro about each observation.
+
+	 .https://codeforces.com/blog/entry/98621 | self-deception: maybe why you're still grey after practicing every day
+	 .https://www.youtube.com/watch?v=9M5voWYmie4&list=PLDjGkpToBsYB5ReiqewT0lkjmP1Quxry-&index=14 | Candidate Master in 1 Year - This Strategy Works Wonders
+	 .https://codeforces.com/blog/entry/85172 | how to get started with solving ad-hoc tasks on code forces
+	 .https://codeforces.com/blog/entry/53341 | practicing, from 1000 to 2000 rating
+	 .https://stevengong.co/notes/Competitive-Programming
+	 .https://www.reddit.com/r/Btechtards/comments/1dwnioy/competitive_programming_resources_and_advice_part/
+	 .https://github.com/vishwajeet7381/cp-journey
+	 .https://teachyourselfcs.com/#algorithms
+	 .https://macyapp.notion.site/e147c9031aba47b684966dd1d2cff6d8?v=98b2a3563f5147f6a15d1701661a0f9f | Hitchhiker's Guide to Algorithms | useful for knowing data structures from scratch (in C)
+
+	.Algorithms Specialization based on Stanford's undergraduate algorithms course CS161 (Tim Roughgarden)
+	 .https://timroughgarden.org/videos.html
+	 .https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V | playlist 1
+	 .https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6 | playlist 2
+	 .https://www.algorithmsilluminated.org | books to follow along with the videos (part 1, 2, 3 and 4)
+
+	 .Dynamic Programming | DP
+	   .https://www.youtube.com/playlist?list=PLAj_13N2fk-RA6wvOUmWOyUeL9zmWFJoI
+	   .https://docs.google.com/document/d/1eYZZFKfCTE5kJcmGIYybHaDdpqWgYwRZlwwUOmHz4Kg/edit
+	   .https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced
+	   .https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf | most basic
+	   .https://www.youtube.com/playlist?list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo
+	   .https://www.youtube.com/playlist?list=PLRKxhQQOfTrnTIetdnYwKiJPDsHBKtgA9 | after the basics
+	
+	  .https://www3.cs.stonybrook.edu/~skiena/373/videos/ | The Algorithm Design Manual
+	  .https://www.shivambhadani.com/student-guide/roadmap-from-newbie-to-expert-in-codeforces
+	  .https://leetcode.com/studyplan/leetcode-75
+	  .https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
+	  .https://github.com/trekhleb/javascript-algorithms
+	  .https://cses.fi/problemset/ | problem set for "Guide to competitive programming" book
+	  .https://www.youtube.com/playlist?list=PL854F74CBCA536791 | Naveen Garg intro to dsa
+	  .https://github.com/ThanasisMattas/cp-handbook | algorithms collection for Competitive Programmers Handbook
+	  .https://www.youtube.com/watch?v=xXKL9YBWgCY&list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80
+	  .https://www.youtube.com/watch?v=2ZLl8GAk1X4
+	  .https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf | advanced algos MIT
+	  .https://www.youtube.com/watch?v=RDzsrmMl48I | black box method to learn hard concepts quickly
+	  .https://www.youtube.com/watch?v=oWgLjhM-6XE&list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4 | dsa playlist by competitive programming champion
+	  .https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms
+	  .file:///C:/Users/Bauti/Downloads/algorithms-for-decision-making.pdf
+	  .https://x.com/systemdesign42/status/1825152082610946402
+	  .https://x.com/sde_ray/status/1825366156569612725
+	  .https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY | MIT intro to algorithms course
+	  .https://github.com/sslotin/amh-code | https://github.com/algorithmica-org/implementations
+	  .https://github.com/tayllan/awesome-algorithms 
+	  .file:///C:/Users/Bauti/Desktop/books/computer-science/competitive-programmer-handbook-dsa.pdf
+	  .https://nick-black.com/dankwiki/images/3/3c/Multire.pdf
+	  .https://leet-codes.blogspot.com/
+	  .https://twitter.com/ashishps_1/status/1778278607611396168
+	  .https://github.com/ashishps1/awesome-leetcode-resources
+	  .https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+	  .https://leetcode.com/problemset/
+	  .https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
+	  .https://neetcode.io/practice
+	  .https://www.hackerrank.com/domains/data-structures
+	  .https://www.interviewbit.com/practice/# | https://www.interviewbit.com/courses/programming/
+	  .http://rebootjeff.github.io/comparisonsort/
+	  .https://alinush.github.io//2022/12/31/pairings-or-bilinear-maps.html
+	  .file:///C:/Users/Bauti/Downloads/Introduction_to_algorithms-3rd%20Edition.pdf // very academic
+	  .file:///C:/Users/Bauti/Downloads/Jay%20Wengrow%20-%20A%20Common-Sense%20Guide%20to%20Data%20Structures%20and%20Algorithms_%20Level%20Up%20Your%20Core%20Programming%20Skills-Pragmatic%20Bookshelf%20(2020).pdf
+
+		.COURSES
+		  .https://frontendmasters.com/courses/practical-algorithms/ - https://slides.com/bgando/intro-to-algorithms
+		  .https://frontendmasters.com/courses/algorithms/introduction/ - https://theprimeagen.github.io/fem-algos/
+	
+	.MACHINE/DEEP LEARNING 
+	 .https://serpdotai.gitbook.io/the-hitchhikers-guide-to-machine-learning-algorithms
+	 .https://www.yuan-meng.com/posts/mle_interviews/ | ML job hunting, interview preparation 
+	 .https://www.iamtk.co/my-experience-learning-machine-learning-and-mathematics
+
+** If you want super-detailed stuff, check out Knuth's The Art of Computer Programming. Be advised that this is more advanced, with code in the book written in Knuth's personal RISC assembly language. It's probably the most detailed book series on the subject (that's why it's not finished), but it's expensive and not exactly for beginners. 
+
+**How to Solve It (book) for general problem solving
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TECH PHILOSOPHY
+
+https://www.philosophyofinformation.net/?s=08
+https://scholar.google.com/citations?user=nnfVBt8AAAAJ&s=08
+https://computingthehumanexperience.com/?s=08
+https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/?s=08
+https://www.421.news/guia-cyberciruja-para-la-autodeterminacion-digital | https://www.421.news/en/routes/
+
+NUCLEAR ENGINEERING
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu
+
+PHYSICS
+
+https://www.feynmanlectures.caltech.edu/I_toc.html
+https://www.feynmanlectures.caltech.edu/II_toc.html
+https://www.feynmanlectures.caltech.edu/III_toc.html
+
+CRYPTOGRAPHY
+
+- https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg
+- https://github.com/sobolevn/awesome-cryptography
+- https://www.udacity.com/course/applied-cryptography--cs387
+- file:///C:/Users/Bauti/Documents/paper-cryptanalysis.pdf
+- https://www.schneier.com/
+- https://github.com/privacy-scaling-explorations/acceleration-program
+- https://crypto.stackexchange.com/questions/10263/should-we-trust-the-nist-recommended-ecc-parameters
+- https://www.schneier.com/blog/archives/2013/09/the_nsa_is_brea.html#c1675929
+- https://lists.torproject.org/pipermail/tor-talk/2013-September/029956.html
+- https://www.metzdowd.com/pipermail/cryptography/2013-September/017446.html
+- file:///C:/Users/Bauti/Desktop/books/cryptography/security-dangers-nist-curves.pdf
+- https://safecurves.cr.yp.to/rigid.html
+- https://github.com/privacy-scaling-explorations/acceleration-program
+- https://sha256algorithm.com/?s=08
+- https://www.youtube.com/playlist?list=PLV91V4b0yVqQ_inAjuIB5SwBNyYmA9S6M | elliptic curve cryptography course
+- https://www.activism.net/cypherpunk/crypto.shtml
+- https://www.cryptopp.com/ | free C++ class library of cryptographic schemes and algorithms
+- https://www.openbsd.org/crypto.html
+- https://web.archive.org/web/20030404190514/http://home.ecn.ab.ca:80/~jsavard/crypto/entry.htm
+- https://ir0nstone.gitbook.io/crypto
+- https://github.com/RustCrypto/signatures
+- https://www.cryptologie.net/?s=08 | https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV
+- https://cr.yp.to/djb.html
+- https://cryptography101.ca/
+
+
+HISTORY OF COMPUTER SCIENCE
+
+https://computerhistory.org/blogs/
+https://computerhistory.org/timelines/
+https://twobithistory.org/timeline.html
+https://www.computerhistory.org/siliconengine/timeline/
+https://willcrichton.net/notes/systems-programming/
+https://www.youtube.com/watch?v=R4znx49SLxA | unix origins
+https://mitpress.mit.edu/series/platform-studies/ | The Platform Studies book series | http://platformstudies.com
+
+.WEB
+
+.https://github.com/sinclairtarget/www-beginnings/blob/master/1991-WWW-NeXT/Implementation/WorldWideWeb.app/default.html
+.https://twobithistory.org/2018/06/10/birth-of-the-web.html
+
+MEMORY/SYSTEMS BUGS/LEAKS/PERFORMANCE
+
+https://www.youtube.com/watch?v=Ge3aKEmZcqY&list=PLEMXAbCVnmY4JbNByvpgEzWsLRKVaF_pk | simple code, high performance
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf | performance engineering of software systems | https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/lecture-slides/
+https://jbachorik.github.io/posts/stop-that-leak?s=08
+https://github.com/google/sanitizers/wiki/AddressSanitizer?s=08
+https://github.com/DataDog/ddprof?s=08
+https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce
+https://tigerabrodi.blog/memory-pointers-and-c-under-the-hood-full-guide
+https://en.algorithmica.org/hpc/ | algorithms for modern hardware | https://github.com/algorithmica-org/algorithmica/tree/master/content/english/hpc
+https://blog.nelhage.com/post/reflections-on-performance/
+https://www.circle-lang.org/site/intro/?s=08 | memory safety for C/C++
+https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf | MIT system performance engineering
+https://x.com/tnm/status/1823904914256560235 | 90% of backend (web) perf engineering is adding indexes and fixing N+1s
+https://github.com/NAThompson/performance_tuning_tutorial?s=08 | performance tuning tool for Linux
+https://www.freecodecamp.org/news/performance-testing-for-web-applications/?s=08 | perf testing for web apps
+https://planetscale.com/blog/btrees-and-database-indexes
+https://dtornow225.substack.com/p/issue-29-transparent-batching
+https://laurentlessard.com/teaching/524-intro-to-optimization/ | introduction to optimization from a modeling perspective, uses Julia as language
+https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/
+https://www.youtube.com/playlist?list=PLIygTcviGPKC5wSXtE6s2qdSYutRH1AUU | optimization
+https://www.youtube.com/watch?v=kDwdgkCFbrQ | how to write (and avoid) unoptimizable code, c++/zig
+https://valkey.io/blog/unlock-one-million-rps/ , https://valkey.io/blog/unlock-one-million-rps-part2/
+https://halobates.de/applicative-mental-models.pdf
+https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/ | web caching algo
+https://www.youtube.com/watch?v=-bo7oVejgRM | How Giphy uses CDN to serve 10 billion GIFs every day
+https://www.openlogic.com/blog/solving-kafka-issues
+https://blog.openresty.com/en/dynamic-tracing-part-1/
+https://asatarin.github.io/testing-distributed-systems/
+https://checkmate.so/ | monitor the hardware of your servers
+https://dzone.com/articles/mysql-80-performance-degradation-analysis
+https://dzone.com/articles/fine-tuning-mysql-performance-resolving-issues
+https://dzone.com/articles/the-complete-tutorial-on-the-top-5-ways-to-query-y | part 1
+https://dzone.com/articles/the-complete-tutorial-on-the-top-5-ways-to-query-y-1 | part 2
+https://dzone.com/articles/implementing-iac-for-data-center-management
+https://x.com/petereliaskraft/status/1908975618861257032 | DBs pitfalls
+https://clickhouse.com/blog/netflix-petabyte-scale-logging
+https://thundergolfer.com/blog/aws-us-east-1-outage-oct20
+https://newsletter.systemdesignclassroom.com/p/performance-doesnt-start-at-select
+https://johnnysswlab.com/latency-sensitive-applications-and-the-memory-subsystem-keeping-the-data-in-the-cache
+https://how.complexsystems.fail/
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+https://www.memorymanagement.org/?s=08
+https://x.com/ConsciousRide/status/2000469457094037850 | react/javascript
+https://x.com/thegeeknarrator/status/1989702450555613528?t=q6iGHkYcxmRAUF9FQ9Ijlw&s=08 | computer science principles for performance
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf | what every programmer should know about memory
+https://johnnysswlab.com/latency-sensitive-applications-and-the-memory-subsystem-keeping-the-data-in-the-cache/
+https://www.computerenhance.com/p/performance-excuses-debunked | news and articles to big tech companies eng blogs regarding performance optimization
+https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f
+
+LOW-LEVEL CODE, WINDOWS INTERNALS
+
+https://github.com/DebugPrivilege/InsightEngineering
+https://www.youtube.com/@LowLevelLearning
+https://github.com/ashishps1/awesome-low-level-design
+https://github.com/7etsuo/windows-api-function-cheatsheets
+https://p.ost2.fyi/ | security courses
+https://github.com/massgravel/Microsoft-Activation-Scripts
+https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/
+
+FORMAL VERIFICATION, MODEL CHECKERS
+
+https://dafny.org/
+https://brooker.co.za/blog/2024/04/17/formal.html | formal methods for low-level systems critical paths (save money and time)
+https://lamport.azurewebsites.net/tla/industrial-use.html
+
+CS THEORY
+
+https://www.youtube.com/@DavidEvans/playlists | theory of computation
+https://www.youtube.com/watch?v=ruOnPmI_40g | theory of computation, Turing Machine vs Lambda Calculus
+https://github.com/veyselusta/programming-language-research
+https://functionalcs.github.io/curriculum/
+https://web.archive.org/web/20141002195305/http://www.cs.uu.nl:80/wiki/Techno/ProgrammingLanguageTheoryTextsOnline
+https://opendsa.cs.vt.edu/OpenDSA/Books/CS3/html/ | DSA CS3
+https://opendsa.cs.vt.edu/OpenDSA/Books/CS3notes/html/ | CS3 notes
+https://opendsa.cs.vt.edu/OpenDSA/Books/Everything/html/
+https://opendsa.cs.vt.edu/OpenDSA/Books/PIFLAS23/html/FLIntro.html | formal languages and automata
+https://opendsa.cs.vt.edu/OpenDSA/Books/CS4104/html/ | senior algorithms
+https://opendsa.cs.vt.edu/OpenDSA/Books/CS2/html/
+https://www.youtube.com/playlist?list=PL3swII2vlVoXiqUBV524pKEsP1iBN4UBU | computing system
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf | performance engineering of software systems
+https://teachyourselfcs.com/
+https://x.com/TheGingerBill/status/1832797478728433873 | odin programming language
+https://d3s.mff.cuni.cz/teaching/nprg077/ | write tiny programming systems with F#
+https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/
+https://www.youtube.com/watch?v=wtdnatmVdIg&list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu | how computers work
+https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html
+https://sbaziotis.com/compilers/getting-started-with-compilers.html
+https://www.youtube.com/watch?v=jQiYW3RXkFU | every programming language explained - Prime reacts
+
+REVERSE ENGINEERING
+
+https://0xinfection.github.io/reversing/?s=08
+https://x86re.com/1.html?s=08
+
+PROGAMMING PARADIGMS
+
+https://softwareengineering.stackexchange.com/questions/117092/whats-the-difference-between-imperative-procedural-and-structured-programming | some definitions on imperative, structured and procedural programming
+
+ Functional
+  .https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo | functional programming with typescript
+  .https://opendsa.cs.vt.edu/ODSA/Books/PL/html/FP1.html | functional programming book
+  .https://opendsa.cs.vt.edu/ODSA/Books/PL/html/Syntax.html | lambda calculus
+  .https://graninas.com
+  .https://www.youtube.com/watch?v=fBKJEj-b86o | Dear Functional Bros - Prime reacts
+
+ Object-oriented
+  .https://opendsa.cs.vt.edu/OpenDSA/Books/CS2/html/IntroOO.html
+  .https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL47E7E3E9C3580684 | Stanford course
+  .https://es.slideshare.net/slideshow/pitfalls-of-object-oriented-programminggcap09/30045164
+  .https://blog.sigma-star.io/2024/01/people-dont-understand-oop/ | https://www.youtube.com/watch?v=VRlIGV4gl5Q
+  .https://www.youtube.com/watch?v=uIxM3Hl0h7Q | OOP is good - Prime reacts
+  .https://zeroheight.com/blog/using-composability-over-inheritance-to-scale-design-systems/
+  .https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty
+  .https://www.computerenhance.com/p/clean-code-horrible-performance
+
+ Data-oriented
+  .https://github.com/dbartolini/data-oriented-design
+  .https://es.slideshare.net/slideshow/introduction-to-data-oriented-design/5679785
+  .https://www.dataorienteddesign.com/site.php
+  .https://vimeo.com/649009599 | practical DoD with andew Kelley (creator of Zig)
+  .https://www.youtube.com/watch?v=yy8jQgmhbAU | C++ Conf | OOP is dead, long live DoD
+  .https://www.youtube.com/watch?v=rX0ItVEVjHc | DoD with C++ - Mike Acton
+  .https://nicolaslopezblog.wordpress.com/2016/07/14/maximizing-code-performance-by-thinking-data-first-part-1/
+
+COMPUTER GRAPHICS PROGRAMMING (for games, films, videos, visual arts)
+
+https://graphicscodex.com/
+https://paroj.github.io/gltut/
+http://15362.courses.cs.cmu.edu/fall2024/ | https://x.com/7etsuo/status/1838807313337192653 | cmu computer graphics
+https://x.com/rainbowpikmin/status/1837589798485479809 | graphics programming journey
+
+ARCHITECTURAL PATTERNS FOR SOFTWARE
+
+ .DDD
+  .https://nullpointer-excelsior.github.io/posts/disenando-microservicios-con-ddd/
+  .https://medium.com/@an.chmelev/ddd-vs-reality-common-pitfalls-and-their-solutions-in-nestjs-e7f0893de294
+  .https://github.com/andrea-acampora/nestjs-ddd-devops
+  .https://github.com/Sairyss/domain-driven-hexagon
+  .https://martinfowler.com/bliki/DomainDrivenDesign.html
+
+ .https://aosabook.org/en/ | architecture of open source apps
+ .https://medium.com/data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+
+DESIGN PATTERNS FOR SOFTWARE
+
+https://refactoring.guru/design-patterns
+https://third-bit.com/sdxjs | software design by showing how to build the tools that programmers use every day using JavaScript
+https://www.industrialempathy.com/#software-design
+https://www.youtube.com/watch?v=CK_OY_gZrCE | dependency injection - Prime reacts
+https://www.youtube.com/watch?v=ZfG8BSTX0Lw | 8 design patterns - Prime reacts
+
+Most used: strategy pattern, builder pattern, observer pattern, DI pattern. 95% of software development is the first two and then you add a little bit of last two, more often DI.
+
+Basically you prototype something, simple, and then you see where it could or/and went wrong. Interface most things for external interaction and create factories, then do strategy pattern for implementing those interfaces and factories in different classes and objects respectively. 
+
+SYSTEMS
+
+- https://pthorpe92.dev/learn-systems/
+https://willcrichton.net/notes/systems-programming/
+https://asatarin.github.io/testing-distributed-systems/
+https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/?s=08
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf | performance engineering of software systems
+https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A | distributed systems course
+https://web.archive.org/web/20210423030302/https://ntuck-neu.site/2020-09/cs3650/ | https://www.youtube.com/playlist?list=PLtg_A_3rzLAtBuwQp6mA3WveYw9Q7GzIZ
+https://x.com/7etsuo/status/1808310891915759783 | os dev
+https://www.youtube.com/@AsliEngineering/playlists
+https://ppc.cs.aalto.fi/?s=08 | parallel programming
+https://x.com/gkcs_/status/1795824134477266971
+https://medium.com/@beingnile/how-does-the-web-work-00e7851fc591
+https://github.com/donnemartin/system-design-primer
+https://github.com/ByteByteGoHq/system-design-101?s=08
+https://sensepost.com/blog/2024/sensecon-23-from-windows-drivers-to-an-almost-fully-working-edr/?s=08
+https://github.com/ashishps1/awesome-system-design-resources
+https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+https://www.youtube.com/watch?v=US4Zr1WKD-8 | category theory for beginners
+https://lists.eatonphil.com/blogs.html
+https://github.com/trimstray/test-your-sysadmin-skills
+https://github.com/mobarski/vimes2/ | several VMs to study performance and architecture
+https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html | OS lectures
+https://www.cse.iitb.ac.in/~mythili/os/ | OS lectures
+https://github.com/spacedriveapp/spacedrive | open source cross-platform file explorer
+https://osblog.stephenmarz.com/index.html | build a rust-based OS
+https://wiki.osdev.org/Main_Page | information about the creation of operating systems
+https://os.phil-opp.com/ | https://github.com/phil-opp/blog_os | tutorial for building a rust OS
+https://x.com/Hasen_Judi/status/1781698942935379975 | straight forward and simple programming
+https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177
+https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
+https://aws.amazon.com/es/builders-library | lessons learned when building at Amazon scale systems
+https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html
+https://protohackers.com/ | projects
+https://x.com/ProgressiveCod2/status/1796429359240122745
+https://brooker.co.za/blog/2024/06/04/scale.html
+https://www.usenix.org/system/files/osdi22-huang-lexiang.pdf | metastable distributed systems failures
+https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/?s=08
+https://github.com/ddd-crew?s=08 | domain driven design
+https://github.com/TartanLlama/minidbg | building mini debugger
+
+  UNIX
+   .https://nick-black.com/dankwiki/index.php/Fast_UNIX_Servers
+   .https://nick-black.com/dankwiki/index.php/Hack_on
+   .https://nick-black.com/dankwiki/index.php/UNIX_Weapons_School | https://nick-black.com/lectures.html
+   .https://github.com/dankamongmen
+   .https://pubs.opengroup.org/onlinepubs/9699919799/
+   .https://publications.opengroup.org/guides/unix
+   .http://www.catb.org/~esr/writings/taoup/html/ch01s06.html | unix philosophy
+
+  LINUX
+   .https://x.com/sysxplore/status/1831012802955260317 | Linux bash scripting
+   .https://linkedin.github.io/school-of-sre/level101/linux_basics/intro
+
+MATH
+
+https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/
+https://docs.google.com/document/d/1LLZK_34Oer9LwuqAv-pqxfXlR8n7V8zJ_MO323R7egI/edit#heading=h.ybz3lonx6dih | The Math Academy Way
+https://docs.google.com/document/d/17qFY5w9uEWL4VVyJSTEmSSRyvegh_Y4N6NMSxwCmGaE/edit?tab=t.0
+https://github.com/llSourcell/learn_math_fast
+https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE | oxford math lectures
+https://ir0nstone.notion.site/Maths-3bb97c269fdc4dde810a3bb3ef9780f1 | math notes
+https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/Gentle_Introduction_to_the_Art_of_Mathematics_(Fields)/01%3A_Introduction_and_Notation
+https://www.3blue1brown.com/#lessons | math, physics
+https://fluency-ai.com/goal/SiLvzEqU5JBUBa71zWjg | discrete math applied to programming with C path
+https://github.com/KnowNo/books-3/blob/master/math/
+https://www.youtube.com/@brightsideofmaths
+https://www.justinmath.com/blog/?s=08
+https://www.youtube.com/@graduatemathematics | advanced math
+https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/assignments/ | problems
+https://artofproblemsolving.com/polymath | collaborate on a MIT's large research project with top-tier research mentors
+https://www.ck12.org/student/
+https://www.reddit.com/r/learnprogramming/comments/1j9vv3h/wheres_the_math_in_dsa_that_everyone_talks_about/
+https://ijfen.substack.com/p/book-review-the-math-academy-way
+https://dibeos.net
+https://algebrica.org
+
+**Complement MATH ACADEMY with text books if needed, like the ones by George F. Simmons (see Precalculus Mathematics in a Nutshell)
+
+ .https://frankhecker.com/2025/02/08/math-academy-part-1/ | MA review, how it works, how to use it, what to expect
+ .https://sheafification.com/the-fast-track/?s=08
+ .https://www.railly.dev/blog/how-i-study-math
+
+CLOUD
+
+https://learntocloud.guide/phase0/
+https://www.netcup.de/vserver/arm-server/?s=08
+https://www.hetzner.com/?s=08 | https://www.morling.dev/blog/how-i-am-setting-up-vms-on-hetzner-cloud/
+https://www.dbos.dev/pricing
+https://nanos.org/getting_started
+https://www.vultr.com/ 
+https://lowendbox.com/
+
+DEVOPS
+
+https://www.youtube.com/@KnowledgeAmplifier1/videos
+https://www.youtube.com/watch?v=hK4kPvJawv8 | building a batch data pipeline
+
+NETWORKS
+
+**Read Computer Networking: A Top-Down Approach
+
+https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS | Stanford Introduction to Computer Networking
+https://sourcedaddy.com/networking/building-your-own-network.html
+https://www.quora.com/How-can-I-create-an-internet-from-scratch-using-the-technology-of-today
+https://web.archive.org/web/20240225114155/https://oxide.computer/podcasts/on-the-metal
+https://stevessmarthomeguide.com/build-home-network/
+https://community.spiceworks.com/t/building-a-network-from-scratch-the-basics/970510
+https://startyourownisp.com/ | wireless isp
+https://www.allconnect.com/blog/can-you-become-your-own-isp
+https://www.reddit.com/r/askscience/comments/20c31f/is_it_possible_to_create_your_own_internet/
+https://www.techtarget.com/searchnetworking/tip/Tips-for-setting-up-a-home-network
+https://lazyadmin.nl/home-network/best-home-network-setup/
+file:///C:/Users/Bauti/Downloads/Manual-Internet-In-A-Box-Setup-for-Everyone.pdf
+https://netsim.erinn.io/ | simulator game intended to teach you the basics of how computer networks function, with an emphasis on security
+https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Examples/Ham-Radio_13173234 | ham radio comm
+https://labs.iximiuz.com/courses/computer-networking-fundamentals
+https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
+https://github.com/w3c/webtransport/blob/main/explainer.md
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+
+WebAssembly (WASM)
+
+-https://developer.mozilla.org/en-US/docs/WebAssembly
+-https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_Wasm
+-https://github.com/yewstack/yew
+-https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API
+-https://github.com/mdn/webassembly-examples/
+-https://github.com/ktock/container2wasm
+
+HARDWARE
+
+https://www.youtube.com/watch?v=HaBMAD-Dr8M&list=PLnAxReCloSeTJc8ZGogzjtCtXl_eE6yzA | building a cpu
+https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j | gpu programming
+https://github.com/splinedrive/bare-metal-programming-guide | start programming microcontrollers
+https://github.com/splinedrive?tab=repositories
+https://github.com/m3y54m/Embedded-Engineering-Roadmap
+https://www.righto.com/
+https://github.com/riscv/riscv-isa-manual/releases/tag/riscv-isa-release-698e64a-2024-09-09
+https://www.youtube.com/@RobertFeranec
+https://www.youtube.com/@RTLEngineering
+https://www.youtube.com/playlist?list=PL5PHm2jkkXmiSGtFXE8IKRQyIZ1wNFknx | computer architecture CMU
+https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf | digital design and computer architecture
+-https://twitter.com/MajmudarAdam/status/1773869330700361789 | design and fabricate chips | https://github.com/adam-maj/tiny-gpu | https://zerotoasiccourse.com/
+-https://github.com/charlax/professional-programming?tab=readme-ov-file#hardware
+-https://github.com/OpenInterpreter/01?tab=readme-ov-file
+-https://www.mov-axbx.com/
+-https://www.youtube.com/watch?v=Nb2tebYAaOA
+-https://learn.sparkfun.com/
+-https://www.zdnet.com/article/thinking-about-switching-to-linux-things-you-need-to-know/
+-https://caseyhandmer.wordpress.com/2023/08/25/you-should-be-working-on-hardware/?s=08
+-https://aprende.org/cursos/view/134?s=08 | reparacion de notebooks
+-https://www.youtube.com/watch?v=BL4DCEp7blY&list=PL8mG-RkN2uTyKyFTGHy05LylyN2Cz-Sa9 | building your PC
+-https://nandgame.com/ | game for interactively build your PC
+-https://mtlynch.io/building-first-homelab-rack/?s=08
+-https://twitter.com/RyanMcIntosh33/status/1778576891688931565 | https://www.youtube.com/watch?v=erDE2e69dlc | hard-tech by YC
+-https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4 | build parallel processors
+-https://github.com/Fortiphyd/GRFICSv2 | industrial control simulation
+-https://plc-training.org/PLC-training-prerequisites.html | plc training
+-https://achirou.com/hardware-para-hackers-los-mejores-40-dispositivos-de-hacking/
+-https://github.com/floooh/chips | toolbox of 8-bit chip-emulators
+-https://en.wikichip.org/wiki/WikiChip
+https://github.com/kitspace/awesome-electronics
+https://kitspace.org/ | ready-to-order electronics designs
+https://github.com/aolofsson/awesome-opensource-hardware
+https://github.com/delftopenhardware/awesome-open-hardware
+https://gist.github.com/rgaidot/9132b50cdcdb455fccbe
+https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking
+https://github.com/sschaetz/awesome-hardware-test
+https://github.com/phodal/awesome-iot
+https://github.com/iamsharduld/Escaping-Abstraction/tree/main/assembly
+https://felipenmartins.github.io/Robotics-Simulation-Labs/ | practice robotics concepts
+https://x.com/i2cjak/status/2012988611570933773 | learn electronics
+https://x.com/oprydai/status/2012008818981613692 | study photolithography
+
+  .CUDA
+
+   .https://vast.ai/ | rent cheap gpu per hour	
+
+   .https://nick-black.com/dankwiki/index.php/CUDA
+   .https://docs.nvidia.com/cuda/
+   .https://github.com/KnowNo/books-3/blob/master/GPU_FPGA/NVIDIA_CUDA_Tutorial_No_NDA_Apr08.pdf
+   .https://www.youtube.com/@cudamode | https://github.com/cuda-mode | https://github.com/cuda-mode/resource-stream
+   .https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j | gpu programming
+   .https://christianjmills.com/series/notes/cuda-mode-notes.html
+   .https://www.youtube.com/watch?v=86FAWCzIe_4
+
+  .LEARN
+   .https://www.instructables.com/circuits/
+   .https://www.mekanika.io/
+
+AUTOMATED WORKFLOWS
+
+-https://github.com/meirwah/awesome-workflow-engines
+-https://corezoid.com/manage-api/ | manage multiple apis
+-https://www.braze.com/ | marketing workflows
+-https://temporal.io/ | execute code in a safer, durable way (panic resistant)
+-https://www.windmill.dev/ | scripts into UIs, cron-jobs, APIs
+-https://plynx.com/ | create data-driven workflows
+
+WEB APP STARTER TEMPLATES
+
+https://github.com/epicweb-dev/epic-stack
+https://github.com/Dhravya/cloudflare-saas-stack
+
+FRONTEND
+
+https://www.youtube.com/watch?v=15VKbky2gB4
+https://daisyui.com/
+https://next-view-transitions.vercel.app/
+https://svgl.vercel.app/
+https://www.untitledui.com/free-figma-ui-kit
+https://ui.aceternity.com/components
+https://windstatic.com/
+https://magicui.design/
+https://www.tremor.so/
+https://syntaxui.com/
+https://luxe.guhrodrigues.com/
+https://preline.co/
+https://github.com/basementstudio/scrollytelling
+https://github.com/basementstudio/basement-laboratory
+https://codyhouse.co/ds/components/content-and-layout?page=4&show=all
+https://uiverse.io
+https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/
+https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/
+https://github.com/tomglenn/fo11y-demo?ref=morioh.com&s=08 | frontend observability with grafana
+https://developer.chrome.com/blog/inside-browser-part1
+https://www.youtube.com/watch?v=j6hTqPV38Ws | diseño UI para desarrolladores
+https://react.dev/learn/you-might-not-need-an-effect
+https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work
+
+  REACT
+
+  .https://hasen.substack.com/p/how-to-create-a-react-app-from-scratch?s=08
+  .https://www.edureka.co/blog/interview-questions/react-interview-questions/
+  .https://designcode.io/react-hooks-handbook
+  .https://www.devhandbook.com/react/hooks/
+  .https://infinum.com/handbook/frontend/react/react-hooks
+  .https://www.freecodecamp.org/news/how-to-use-react-server-components/
+  .https://million.dev/blog/lint-rc
+  .https://www.freecodecamp.org/news/react-performance-optimization-techniques/
+  .https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/?s=08
+  .https://www.freecodecamp.org/news/hard-parts-of-react/
+  .https://v2.scrimba.com/learn-react-c0e
+  .https://www.freecodecamp.org/news/how-to-build-reusable-react-components/
+  .https://dev.to/vyan/writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l
+  .https://dev.to/vyan/route-guards-in-react-securing-your-application-1i9i | private routes with context api and hooks
+  .https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/
+  .https://dormoshe.io/trending-news/why-react-won-the-front-end-race-4e55-75883
+  .file:///C:/Users/Bauti/Downloads/react-ecosystem.jpeg
+  .https://tkdodo.eu/blog/component-composition-is-great-btw
+  .https://www.freecodecamp.org/news/boost-web-performance-with-prefetching
+  .https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/
+  .https://github.com/streamich/react-use | several prod-ready react hooks
+  .https://medium.com/@errichagautam1111/react-interview-experience-july-2025-capgemini-publicis-sapient-siemens-eed8f5bdce8a 
+  .https://claritydev.net/blog/the-most-common-mistakes-when-using-react
+  .https://deepwiki.com/facebook/react
+
+  .Courses
+   - https://www.epicreact.dev
+   - https://www.joyofreact.com
+
+
+ TYPESCRIPT
+
+  .https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+  .https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/
+  .https://typehero.dev/tracks
+
+  .Courses
+   - https://www.totaltypescript.com/#buy
+
+BACKEND
+
+https://www.youtube.com/watch?v=fUgxxhI_bvc&list=PLUofhDIg_38pNCZe9ptj72exbFjzyePxT&index=1
+https://www.youtube.com/watch?v=ZpY5KdGQvwI
+https://www.youtube.com/watch?v=7fOjuCGE_jk
+https://github.com/coollabsio/coolify | alternative to netlify, heroku
+https://github.com/Ylianst/MeshCentral | manage multiple servers, computers
+https://github.com/convox/rack | private PaaS that runs in your AWS account
+https://dev.to/ndohjapan/scalable-notification-system-design-for-50-million-users-database-design-4cl
+https://docs.google.com/document/d/1-L9UAmkgPnmBt99aE_RQ7MJVD-PnIBO-uQLkhXv9X4o/edit#heading=h.xwa4uo3g0qon | backend engineering notes
+https://github.com/dbos-inc/dbos-transact | host your backend
+https://ben-makes-stuff.beehiiv.com/p/selfhost-app-2024-right-way?s=08 | self-hosting your app
+https://www.freecodecamp.org/news/how-to-handle-breaking-changes/
+https://www.serverhelp.co/c/resources/?s=08
+https://www.youtube.com/@hnasr/playlists
+https://github.com/Sairyss/backend-best-practices
+https://systemssaturday.substack.com/p/systems-saturday-11-building-resilient
+
+
+TERMINAL TOOLS -> https://terminaltrove.com/?s=08
+
+DATABASES
+
+*check CMU courses on youtube -> https://www.youtube.com/@CMUDatabaseGroup/courses
+
+https://www.youtube.com/watch?v=7NPIENPr-zk&list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5 | CMU intro to database systems
+https://www.youtube.com/watch?v=NLycrsJ1jI8&list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ&index=2 | CMU advanced database systems | https://15721.courses.cs.cmu.edu/spring2024/schedule.html
+https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+https://dev.to/ndohjapan/scalable-notification-system-design-for-50-million-users-database-design-4cl
+https://blog.algomaster.io/p/system-design-how-to-scale-a-database
+https://github.com/auxten/go-sqldb/issues/7?s=08 | databases papers
+https://planetscale.com/blog/btrees-and-database-indexes
+https://transactional.blog/blog/2024-data-replication-design-spectrum
+https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/
+https://sqlpremierleague.com/ | play and learn SQL
+https://github.com/session-replay-tools/mysql-replay-module | a tcpcopy module for MySQL session replay | can use tools like tcpdump to capture the complete session, and then use tcpcopy for replay
+https://www.instantdb.com/docs | build realtime and collaborative apps like Notion or Figma | https://www.instantdb.com/essays/sync_future
+https://15799.courses.cs.cmu.edu/spring2025/ | CMU database query optimization
+https://dzone.com/articles/mysql-80-performance-degradation-analysis
+https://dzone.com/articles/fine-tuning-mysql-performance-resolving-issues
+https://x.com/petereliaskraft/status/1908975618861257032 | DBs pitfalls | http://hyperloop.cs.uchicago.edu/220-HowNotStructure.pdf
+https://www.youtube.com/@hnasr/playlists
+https://newsletter.systemdesignclassroom.com/p/performance-doesnt-start-at-select
+
+https://github.com/tursodatabase/turso/blob/main/docs/manual.md | design of a in-process database (fork of SQLite)
+https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/ , https://blog.jcole.us/2013/01/02/on-learning-innodb-a-journey-to-the-core/
+https://blog.xiangpeng.systems/posts/sql-to-results/ , https://intro-data-system.xiangpeng.systems
+https://www.nan.fyi/database
+https://planetscale.com/learn/courses/database-scaling/introduction/course-introduction
+https://blog.stackademic.com/database-scenarios-every-developer-should-master-the-guide-i-wish-i-had-years-ago-0545437a77e1
+https://read.thecoder.cafe/p/build-your-own-kv-engine-1
+https://github.com/lambdaclass/lambdaclass_hacking_learning_path?tab=readme-ov-file#sql-and-postgresql
+
+https://github.com/mayfer/dbpill | PostgreSQL proxy that intercepts all queries & provides a web interface to profile them
+
+JAVASCRIPT
+
+https://morioh.com/a/94c5045d6738/javascript-visualized-event-loop-web-apis-task-queue
+
+NODE
+
+https://www.youtube.com/watch?v=_eJ6KAb56Gw | node explained
+https://github.com/lirantal | security, best practices, tools, packages
+https://www.geeksforgeeks.org/node-interview-questions-and-answers/
+https://blog.appsignal.com/2021/11/24/7-ways-to-improve-nodejs-performance-at-scale.html
+https://github.com/goldbergyoni/nodebestpractices/tree/spanish-translation
+https://www.freecodecamp.org/news/performance-testing-for-web-applications/?s=08
+https://dev.to/mrcaption49/build-your-first-cicd-pipeline-23mn | ci/cd pipeline with GitHub actions
+https://www.youtube.com/watch?v=cxgAN7T3rq8 | serverless node js tutorial, aws lambda, neon postgres
+https://www.youtube.com/watch?v=APfWkfkjRj8 | rabbitMQ with RPC
+https://www.youtube.com/watch?v=_cNIsBTg8HA | three elemental concepts for node development (blocking/non-blocking, concurrency, h-scaling)
+https://www.youtube.com/watch?v=xwjlBGTGDc4 | rest api with express MySQL docker
+https://morioh.com/a/ce1b1cb93ed1/nodejs-api-design-harness-the-power-of-design-patterns
+https://deepwiki.com/nodejs/node
+https://docs.nestjs.com
+
+GO
+
+https://www.youtube.com/watch?v=lNd7XlXwlho
+https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6 | go class tutorial by matt holiday
+https://www.youtube.com/watch?v=bymQakvTY40 | build a distributed file storage
+https://www.youtube.com/watch?v=un6ZyFkqFKo
+https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/e784c584-f6a7-4c21-bcef-a6c800aa4491/a1eae01c-0a40-47d5-9b98-94fe48199073
+https://gobyexample.com/
+https://quii.gitbook.io/learn-go-with-tests/?ck_subscriber_id=2271406231
+https://go.dev/doc/tutorial/
+https://go.dev/doc/
+https://gin-gonic.com/docs/
+https://golangexample.com/tag/boilerplate/
+https://github.com/OWASP/Go-SCP
+https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/
+
+https://github.com/akmamun/gin-boilerplate?ref=golangexample.com
+https://v0x.nl/articles/portable-apps-go-nextjs/
+https://github.com/dstotijn/golang-nextjs-portable
+https://stackoverflow.com/questions/70515112/how-to-serve-a-nextjs-frontend-using-golang-go-and-gorilla-mux
+https://github.com/vardius/go-api-boilerplate
+https://golangexample.com/a-complete-go-api-boilerplate/
+https://golangexample.com/golang-boilerplate-auth-entgo-postgres-mailing-i18n-docker/
+https://github.com/sabinlehaci/grpc?ref=golangexample.com
+https://github.com/lzambarda/simple-go-boilerplate?ref=golangexample.com
+https://github.com/spy16/moonshot?ref=golangexample.com
+https://github.com/hecigo/go-hexaboi?ref=golangexample.com
+https://github.com/amar-jay/go-graphql-boilerplate?ref=golangexample.com
+
+ZIG
+
+https://ziglist.org/?s=08
+
+Kubernetes
+
+https://medium.com/@dlprdd7/demystifying-kubernetes-architecture-a-beginners-guide-%EF%B8%8F-fc3669ca6cd1
+https://medium.com/@mys3cloudhub/kubernetes-roadmaps-582a89cda478
+https://morioh.com/a/3064d9039520/kubernetes-cicd-pipeline-using-jenkins-or-devops-tutorialproject
+https://medium.com/@seifeddinerajhi/connecting-the-dots-understanding-how-pods-talk-in-kubernetes-networks-992fa69fbbeb
+https://platform9.com/blog/kubernetes-deployment-the-ultimate-guide/
+https://zivukushingai.medium.com/troubleshooting-kubernetes-key-aspects-to-check-when-issues-arise-f387f3a0f3ac
+https://medium.com/@phil.poon/automated-postgresql12-backups-in-k8s-using-pg-dump-and-pgpass-c7005bddc12d
+https://michaelwalshh.medium.com/kubernetes-native-testing-with-testkube-2228ef3ba105
+https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6
+https://linuxhandbook.com/deploy-generative-microservices/
+https://github.com/cuber-cloud/cuber-gem
+https://www.kubetools.io/
+https://collabnix.github.io/kubetools/
+https://niravshah2705.medium.com/enhancing-kubernetes-scalability-and-responsiveness-with-pod-priority-and-over-provisioning-a2f98ad602e0
+https://morioh.com/a/c2d2075952c3/real-time-devops-project-or-deploy-to-kubernetes-using-jenkins
+https://testkube.io/learn/parallel-testing-best-practice-for-load-testing-functional-testing?s=08
+
+MONITORING
+
+https://uptimerobot.com/
+https://uptimerobot.com/integrations/
+https://github.com/ianaya89/diy-monitoring
+https://www.hwinfo.com/download/ | monitoring for windows
+https://netflix.github.io/atlas-docs/
+
+TESTING
+
+https://smartbear.com/
+https://github.com/adriannovegil/awesome-chaos-engineering
+https://blog.codinghorror.com/low-fi-usability-testing/
+https://netflix.github.io/chaosmonkey/
+https://queue.acm.org/detail.cfm?id=3068754 | general approach to debugging
+https://asatarin.github.io/testing-distributed-systems/
+
+-Terraform
+https://github.com/libracoder/terraform-provider-boilerplate?ref=golangexample.com
+https://github.com/EwanNoble/pulumi-mssql?ref=golangexample.com
+
+RUST
+
+https://www.rust-lang.org/learn
+https://letsgetrusty.kartra.com/page/XDk8
+https://www.hackingwithrust.net/2023/08/26/how-to-build-a-rest-api-with-rust-diesel-and-postgres-part-1-setting-up/
+https://www.hackingwithrust.net/2023/08/27/how-to-build-a-rest-api-with-rust-diesel-and-postgres-part-2-kubernetes/
+https://www.youtube.com/watch?v=wvKlKXAUAV4&list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL | rust for smart contracts
+https://www.onchainuniversity.xyz/
+https://twitter.com/0xcastle_chain/status/1771030850265600039
+https://www.youtube.com/watch?v=q7yjmhxyvc0 | rust security
+https://yet-another-rust-resource.pages.dev/introduction?s=08 | rust crash course
+https://www.youtube.com/@guvenkaya_sec
+https://www.shuttle.rs/blog/2022/06/30/error-handling
+https://medium.com/@gokun4621/rust-security-101-unrecoverable-errors-part-2-04dd1fde34eb
+https://www.shuttle.rs/blog/2024/02/07/deploy-rust-web
+https://github.com/rust-unofficial/awesome-rust
+https://marabos.nl/atomics/ | https://github.com/m-ou-se/rust-atomics-and-locks
+https://github.com/ImplFerris/rust-in-production
+
+
+SOLANA
+
+https://www.helius.dev/blog/an-introduction-to-anchor-a-beginners-guide-to-building-solana-programs
+https://github.com/Rektoff/Security-Roadmap-for-Solana-applications
+
+
+C/C++
+
+https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m
+https://github.com/MattPD/cpplinks
+https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb | c++ course
+
+BLOCKCHAIN
+ -https://docs.google.com/spreadsheets/u/0/d/1MsJmpsaelepfA2MS9Ce9Y1rQB4lBOGD46a3x7e_S8oM/htmlview#
+
+BITCOIN
+
+https://crypto.news/learn/introduction-bitcoins-scripting-language/
+https://www.stacks.co/
+https://liquid.net/devs
+https://casebitcoin.com/charts
+https://twitter.com/raw_avocado/status/1412037318375100420
+https://mempool.space/es/docs/faq
+https://twitter.com/officer_cia/status/1727054153048863114?t=J0T27CkD3RGRcDvfDMLHvg&s=08
+
+ETHEREUM
+
+-https://github.com/ethereumbook/ethereumbook
+-https://github.com/RareSkills/huff-puzzles
+-https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap | op-sec
+
+GETH
+
+https://geth.ethereum.org/docs/getting-started
+
+
+SOLIDITY
+
+https://secure-contracts.com/
+https://learnweb3.io/degrees/ethereum-developer-degree/
+https://university.alchemy.com/
+https://web3education.dev/
+https://secure-contracts.com/?s=08
+https://nodeguardians.io/?s=home
+https://cryptozombies.io/
+https://github.com/joel0x/90-days-of-Solidity-Problems?s=08
+https://docs.base.org/base-camp/docs/welcome/?s=08
+https://thedailyape.notion.site/Beginner-s-Resources-cd838d1024d84d86a23a35c21bab43ba
+https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/guidelines.md
+
+ .ZK Proof
+  -https://ethereum.org/en/developers/docs/scaling/zk-rollups
+  -https://www.zellic.io/blog/what-is-a-zk-audit/
+  -https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a
+  -https://www.rareskills.io/zk-book
+  -https://github.com/RareSkills/zero-knowledge-puzzles
+  -https://docs.circom.io/
+  -https://github.com/iden3/circomlib
+  -https://zkrepl.dev/
+  -https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources/blob/main/README.md?s=08
+  -https://www.notion.so/ZK-Weekly-0a4312f574e4488e98335034f512324c
+	
+	.Tornado Cash
+	  https://www.rareskills.io/post/how-does-tornado-cash-work
+
+	.Monero
+	  -https://www.youtube.com/watch?v=Fgf2S5vZkMY | minar monero
+	  -https://twitter.com/BTClovera/status/1752989359278600630?t=2fylWQC18_tH8vRvidmMdg&s=08
+
+ .Research
+  -https://twitter.com/crypthoem/status/1581640333930397696
+  -https://thealpharchives.com/
+  -https://github.com/nomad-xyz/awesome-interop //interoperability resources
+  -https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b
+  -https://twitter.com/AtlasRestless/status/1365521736121294848
+  -https://twitter.com/thedefiedge/status/1489003195179413505
+  -https://www.theblock.co/post/10570/the-blocks-list-of-crypto-research-tools-and-resources
+  -https://www.rareskills.io/blog/
+  -https://twitter.com/Smacaud1/status/1719588776819703886?t=SFmBt_5VZT6QZPb1QSDuaA&s=08
+  -https://github.com/OffcierCia/ultimate-defi-research-base?s=08
+  -https://github.com/OffcierCia/DeFi-Developer-Road-Map
+  -https://blog.smlxl.io/defi-lending-concepts-part-2-liquidations-7f0f0ffec96c
+  -https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023-submissions-open?s=08
+  -https://github.com/crytic/awesome-ethereum-security
+
+ .Data
+  -https://ath.mirror.xyz/w2cxg5OP1OEcqvSgsEjSSyKRJhPmam0w-fXGogiG-8g
+  -https://github.com/colekennelly1/awesome-defi-trackers
+
+ .AUDITING
+  Checklists -> https://solodit.xyz/checklist - https://github.com/securing/SCSVS - https://github.com/transmissions11/solcurity
+  Explotis and PoCs -> https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee
+  -https://cmichel.io/how-to-become-a-smart-contract-auditor/?s=08
+  -https://www.youtube.com/@opensensepw
+  -https://exclusive-xenon-2d4.notion.site/Beginner-s-Starter-Packs-for-Smart-Contract-auditing-011874fcdf08466783dcb7f8381635e9
+  -https://wiki.r.security/wiki/Main_Page?s=08
+  -https://medium.com/immunefi/how-to-use-foundry-to-poc-bug-leads-part-1-214c9c02ff30
+  -https://github.com/Picodes/4naly3er/
+  -https://github.com/OpenCoreCH/smart-contract-auditing-heuristics?s=08
+  -https://mindsets-of-auditing.netlify.app/
+  -https://defihacklabs.substack.com/p/lesson-1-smart-contract-audit-methodology
+  -https://github.com/SunWeb3Sec/DeFiHackLabs
+  -https://github.com/Decurity/audit-checklists
+  -https://www.youtube.com/playlist?list=PLTJasqY2MI__GY2NhMe4W7E93J0ZM7oQB
+  -https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503
+  -https://www.youtube.com/watch?v=CNr48jNuKRM&list=PLTJasqY2MI__GY2NhMe4W7E93J0ZM7oQB
+  -https://github.com/OffcierCia/tips-solidity-code-auditors?s=08
+  -https://www.beirao.xyz/blog/Security-checklist?s=08
+  -https://github.com/harendra-shakya/smart-contract-attack-vectors?s=08
+  -https://guardianaudits.notion.site/Auditing-Brain-514ebd09119d44ed999a11b16d70d7de
+  -https://github.com/kadenzipfel/smart-contract-vulnerabilities?s=08
+  -https://www.intogateway.com/training
+  -https://book.getfoundry.sh/forge/writing-tests
+  -https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
+  -https://www.youtube.com/watch?v=CfR1CcO8lEI&list=PLKXasCp8iWpiKdsSR18XdAyDeYlYzMG00
+  -https://github.com/crytic/not-so-smart-contracts
+  -https://github.com/crisgarner/awesome-foundry?s=08
+  -https://github.com/GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification
+  -https://security.snyk.io/package/npm/@openzeppelin%2Fcontracts
+  -https://github.com/Decurity/semgrep-smart-contracts?s=08
+  -https://mindsets-of-auditing.netlify.app/?s=08#/6
+  -https://www.youtube.com/watch?v=MgCSEUrMnSQ
+  -https://github.com/decentxyz/forge-toolkit?s=08
+  -https://github.com/coinspect/learn-evm-attacks
+  -https://twitter.com/deadrosesxyz/status/1752639255090798947?t=dGEeeCTkavzdHxsXnl58TA&s=08 | voting escrows
+
+	.TOOLS
+	  -https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques/blob/main/README.md
+	  -https://metamorphic.a16zcrypto.com/
+	  -https://milotruck.github.io/blog/Foundry-Cheatsheet/?s=08
+
+	
+	.Approaching an audit
+	  -https://twitter.com/zachobront/status/1606132664422891520
+	  -https://github.com/transmissions11/solcurity
+
+		.AAVE Protocol specifics
+		  -https://gist.github.com/aviggiano/4c21d79fff3437f3799da1e44e425e06?s=08
+
+
+	.Auditors to follow
+	  -Ox52 | https://github.com/search?q=org%3Asherlock-audit%20%220x52%20high%22%20OR%20%220x52%20medium%22&type=issues&o=desc&s=08
+	  -obront | https://github.com/search?q=org%3Asherlock-audit+%22obront%22+in%3Atitle+is%3Aissue&type=issues
+	  -cergyk | https://github.com/search?q=org%3Asherlock-audit+%22cergyk%22+in%3Atitle+is%3Aissue&type=issues&p=2
+ 	  -MiloTruck | https://www.youtube.com/watch?v=DySpPB3079k
+ 
+  	.MUST KNOW CONTRACTS  
+
+		.Token contracts: The most used token standards are EIP20 for fungible tokens, and EIP721 for NFTs.    
+
+		.Proxies: There are many different proxy implementations, have a look at the OpenZeppelin Upgradable Proxies.    
+
+		.MasterChef contract: A staking contract by SushiSwap where users deposit LP tokens and receive rewards. 
+
+		.Compound: A must-know protocol if you want to have solid knowledge of Lending/Borrowing codebases.    
+		  https://www.rareskills.io/compound-v3-book
+
+		.UniswapV2:  The basis for understanding automated market makers (AMMs) in general. You should also understand how LP 			tokens work.
+		  .https://themj0ln1r.github.io/posts/uniswapoverview
+		  .https://themj0ln1r.github.io/posts/uniswapv2complete
+		  .https://www.rareskills.io/uniswap-v2-book
+
+		.UniswapV3
+		  .https://uniswapv3book.com/index.html?s=08
+
+		.Optimism
+		  .https://tianpan.co/optimism-bedrock-specs/
+
+		.Arbitrum
+		  .https://coinmarketcap.com/academy/article/what-is-arbitrum-the-ultimate-guide-to-the-arbitrum-ecosystem
+
+	.2023 Hack Reports -> file:///C:/Users/Bauti/Downloads/ChainLight%20Web3%20Security%20Post%20Mortem%202023%20(Protected).pdf
+		.pass: duediligence
+
+.CONTESTS -> https://www.dailywarden.com/?s=08
+
+.POC Templates
+  -https://github.com/deliriusz/turbopoc
+  -https://github.com/zobront/quickpoc
+  -https://github.com/paulrberg/foundry-template
+  -https://github.com/Elpacos/quickfork
+  -https://github.com/immunefi-team/forge-poc-templates
+
+.MEV/RACE BOTS
+
+ -https://twitter.com/RealJohnnyTime/status/1749749899535798531?t=mh3FKRr7aUkfZSi0EUchQQ&s=08
+ -https://github.com/code-423n4/Bot-Race-JSON-Schema
+
+1. Corrupted Safari Preferences File
+
+This is very common for this specific issue:
+
+Quit Safari completely (⌘ + Q)
+Go to Finder → Go → Go to Folder → type: ~/Library/Preferences/
+Find these files and move them to your Desktop (not delete - just move):
+
+com.apple.Safari.plist
+com.apple.Safari.plist.lockfile
+com.apple.Safari.SandboxBroker.plist
+Restart your Mac (important!)
+Open Safari again
